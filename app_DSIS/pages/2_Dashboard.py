@@ -8,26 +8,32 @@ connection = sqlite3.connect("marche_emploi_mecanique.db")
 df = pd.read_sql_query("SELECT * FROM offres", connection)
 connection.close()
 
-ville = st.sidebar.selectbox("Ville",["Toutes"] + sorted(df["Ville"].unique().tolist()))
-secteur = st.sidebar.selectbox("Secteur",["Tous"] + sorted(df["Secteur d'activité"].unique().tolist()))
-entreprise = st.sidebar.selectbox("Entreprise",["Tous"] + sorted(df["Entreprise"].unique().tolist()))
-compétences = st.sidebar.selectbox("Compétences techniques",["Toutes"] + sorted(df["Compétences techniques"].unique().tolist()))
-langue = st.sidebar.selectbox("Langues",["Tous"] + sorted(df["Langues"].unique().tolist()))
+colonnes = {
+    "Ville": "Toutes",
+    "Secteur d'activité": "Tous",
+    "Entreprise": "Tous",
+    "Compétences techniques": "Toutes",
+    "Langues": "Tous",
+    "Contrat proposé": "Tous",
+    "Titre du poste": "Tous",
+    "Expérience": "Tous",
+    "Soft skills": "Tous"
+}
 
-if ville != "Toutes":
-    df = df[df["Ville"] == ville]
+filtres = {}
+for colonne, defaut in colonnes.items():
+    if colonne in ["Secteur d'activité", "Compétences techniques", "Soft skills", "Langues"]:
+        options = (df[colonne].dropna().str.split(",").explode().str.strip().unique().tolist())
+    else:
+        options = df[colonne].dropna().unique().tolist()
+    filtres[colonne] = (st.sidebar.selectbox(colonne, [defaut] + sorted(options)),defaut)
 
-if secteur != "Tous":
-    df = df[df["Secteur d'activité"] == secteur]
-
-if entreprise != "Tous":
-    df = df[df["Entreprise"] == entreprise]
-
-if compétences != "Toutes":
-    df = df[df["Compétences techniques"] == compétences]
-
-if langue != "Tous":
-    df = df[df["Langues"] == langue]
+for colonne, (valeur, valeur_par_defaut) in filtres.items():
+    if valeur != valeur_par_defaut:
+        if colonne in ["Secteur d'activité", "Compétences techniques", "Soft skills", "Langues"]:
+            df = df[df[colonne].str.contains(valeur, na=False)]
+        else:
+            df = df[df[colonne] == valeur]
 
 tab1, tab2, tab3 = st.tabs([ "Vue Macro-Économique",
                              "Analyse Sectorielle",

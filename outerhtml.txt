@@ -1,0 +1,1014 @@
+<html class="no-js js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="https://www.emploi.ma/sites/all/themes/africawork3/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="
+
+
+">
+<link rel="canonical" href="https://www.emploi.ma/recherche-jobs-maroc/m%C3%A9canique">
+<link rel="shortlink" href="https://www.emploi.ma/recherche-jobs-maroc/m%C3%A9canique">
+        <title>Emplois mécanique Maroc | Emploi.ma</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;family=Signika:wght@300..700&amp;display=swap" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="https://www.emploi.ma/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.emploi.ma/sites/default/files/css/css_S3GzjhB7__zLyMhUVDDosIsfH-ELpqzaIxA8-ispzlQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.emploi.ma/sites/default/files/css/css_jENQOQqZCRFGZK__DTefxYiXR2RUf03k1ugj3_Vg7vk.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.emploi.ma/sites/default/files/css/css_KBIph_uBejr-7JofSjOp5EOV0Gh2rpJ-lfUmPF38Npw.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://www.emploi.ma/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all">
+    <script type="text/javascript" src="https://www.emploi.ma/sites/default/files/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
+<script type="text/javascript" src="https://www.emploi.ma/sites/default/files/js/js_WwwX68M9x5gJGdauMeCoSQxOzb1Ebju-30k5FFWQeH0.js"></script>
+<script type="text/javascript" src="https://www.emploi.ma/sites/default/files/js/js_ZlBAG7SPJVBP5-oZ3QUsHdmH-kJqwP7TyxWycJJrGB8.js"></script>
+<script type="text/javascript" src="https://www.emploi.ma/sites/default/files/js/js_cYAW28QS5Z3Vg-b6OhChYGiBqilkJePqhn9c15bUcys.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"africawork3","theme_token":"155fJlUHExBG3UlBip_aUg6jtJRgNpsDG155LCSwLlM","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"misc\/form-single-submit.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/collapsiblock\/collapsiblock.js":1,"sites\/all\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"public:\/\/languages\/fr_HY5_SXMkiczwYYLrKhIBDpHhFVGBe-p7JDkrpWEuEkE.js":1,"sites\/all\/modules\/contrib\/facetapi\/facetapi.js":1,"sites\/all\/themes\/africawork3\/js\/intlTelInput.js":1,"sites\/all\/themes\/africawork3\/js\/slick\/slick.min.js":1,"sites\/all\/themes\/africawork3\/js\/slick\/script.js":1,"sites\/all\/themes\/africawork3\/js\/script.js":1,"sites\/all\/themes\/africawork3\/js\/behaviors.js":1}},"collapsiblock":{"blocks":{"block-views-employers-directory-block":"2","block-views--exp-employers-directory-page":"2","block-emawebform-emawebform-contact-recruitment":"1","block-apachesolr-search-mlt-002":"1","block-apachesolr-search-mlt-001":"1","block-facetapi-7gsu08olrsut1fegnb5orbokh25juhoc":"3","block-facetapi-uxwf8wadg08f9ddiejao0ealo4dgqjmq":"3","block-facetapi-ilinwzm0o1fnlwpfmkt7gzsyh6turw5d":"2","block-facetapi-ucr3qmd6z52772lmqvl1w1pzfvwzo7h9":"3","block-facetapi-yqbrpkd6hrrqrh1jp9v090omp7bt2a4x":"3","block-facetapi-rwehvj3dz9rp1fog6lu1sh42smzztecu":"3","block-facetapi-eghgbid2cb0w0gmcfvrw8dfyepbgm25e":"3","block-views--exp-gestion-candidatures-page":"2","block-emasearch-emasearch-homepage-jobsearch-box":"1","block-current-search-standard":"1","block-current-search-jobsearch":"1","block-emacustomizations-footer-candidate":"1","block-facetapi-dawnucadngmsnfkdg2jkf8eqx3zg5hgz":"3","block-facetapi-vmglnefysjcl0qbebzgogkeyyag2fvey":"3","block-facetapi-nskor1kswgvbowzszx9va0wwqfhdtpge":"3","block-facetapi-ax1fjqgbrrmuaedewmkzq0ghlinpwzxo":"3","block-facetapi-qayivrvmh7a0ox96lnt0vnta2fc2jqnv":"2","block-facetapi-0m0fe0tq0rdj0zgvfl6a7penkqkb7idg":"3","block-facetapi-oxobk0e1ydp2i4yufnkbnnbxkjgwy8vt":"3","block-emawebform-emawebform-contact-info":"1","block-emacustomizations-footer-recruiter":"1","block-facetapi-2yzdoru0yf7thj8slwog5t1rvsieot8c":"3","block-facetapi-uan7m4lsysg7pz7qinsvapoj9ig3fohc":"3","block-facetapi-jdyewuclasrtl93trcxng0vfdq4gunc8":"3","block-facetapi-avw1x3y0cxsg4r0lhxvygloumivtmpg5":"3"},"default_state":"1","slide_type":"2","slide_speed":"400","block_title":"button.accordeon-header","block":"li.block","block_content":"ul.accordeon-body"},"urlIsAjaxTrusted":{"\/recherche-jobs-maroc\/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57\u0026f%5B1%5D=im_field_offre_region%3A73\u0026f%5B2%5D=im_field_offre_region%3A58\u0026f%5B3%5D=im_field_offre_region%3A64\u0026f%5B4%5D=im_field_offre_region%3A74\u0026f%5B5%5D=im_field_offre_region%3A75\u0026f%5B6%5D=im_field_offre_region%3A59\u0026f%5B7%5D=im_field_offre_region%3A61\u0026f%5B8%5D=im_field_offre_region%3A76\u0026f%5B9%5D=im_field_offre_region%3A60\u0026f%5B10%5D=im_field_offre_region%3A62\u0026f%5B11%5D=im_field_offre_region%3A63\u0026f%5B12%5D=im_field_offre_region%3A65\u0026f%5B13%5D=im_field_offre_region%3A66":true},"facetapi":{"facets":[{"limit":"20","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-metiers","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_metiers","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"},{"limit":"0","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-secteur","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_secteur","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"},{"limit":"20","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-niveau-etude","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_niveau_etude","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"},{"limit":"20","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-niveau-experience","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_niveau_experience","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"},{"limit":"20","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-contrat-type","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_contrat_type","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"},{"limit":"0","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-region","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_region","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"},{"limit":"0","id":"facetapi-facet-apachesolrsolr-block-im-field-offre-niveau-langue","searcher":"apachesolr@solr","realmName":"block","facetName":"im_field_offre_niveau_langue","queryType":"term","widget":"facetapi_emalinks","showMoreText":"Show more","showFewerText":"Show fewer"}]},"africawork3":{"geoip":"https:\/\/www.africawork.com\/geoip\/"}});
+//--><!]]>
+</script>
+          <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DQK77J3YQQ"></script>
+      <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag('js', new Date());
+          gtag('config', 'G-DQK77J3YQQ');
+      </script>
+      <script type="text/javascript">
+        var trackOutboundLink = function (url, category, action) {
+            gtag('event', 'click', {
+                'event_category': category,
+                'event_action': action,
+                'link_url': url,
+                'transport_type': 'beacon'
+            });
+        }
+      </script>
+        </head>
+
+<body id="pid-recherche-jobs-maroc-mécanique" class="html not-front not-logged-in one-sidebar sidebar-second page-recherche-jobs-maroc page-recherche-jobs-maroc-mécanique candidate-context i18n-fr role-other form-single-submit-processed">
+                <header class="header">
+    <div class="header-logo container">
+        <a href="/"><img src="/sites/default/themes/africawork3/logo-header-emploi.ma.svg" alt="Engagés pour l'emploi au Maroc et en Afrique"></a>
+        <button id="btn-menu" type="button" aria-label="show menu"></button>
+    </div>
+    <div class="header-top header-menu">
+        <div class="header-go-to-appstore">
+            <!-- <p>Disponible sur </p> -->
+                                      <a href="https://www.facebook.com/emploi.ma" class="socials facebook" target="_blank">
+                <img src="/sites/all/themes/africawork3/img/icon/facebook.svg" alt="facebook">
+              </a>
+                                      <a href="https://www.linkedin.com/company/emploi-ma/" class="socials linkedin" target="_blank">
+              <img src="/sites/all/themes/africawork3/img/icon/linkedin.svg" alt="linkedin">
+              </a>
+                    </div>
+        <nav id="mobile-menu" class="nav nav-top">
+            
+<ul class="nav-top-main">
+<li class="partner-link"><a href="/offres-it-freelance" class="withicon mtab-it">Offres IT Freelance</a></li>
+<li><a href="/" class="withicon mtab-home">Accueil Candidat</a></li>
+<li><a href="/recherche-jobs-maroc" class="withicon search">Offres d'emploi</a></li>
+<li><a href="/recruteurs" class="withicon mtab-recruiters">Ils recrutent</a></li>
+<li><p class="accordeon-header"><a href="/recrutement" class="withicon recruteur">Accueil recruteur</a></p>
+<ul class="nav-top-secondary accordeon-body sidemenu">
+<li><a href="/recherche-base-donnees-cv">Trouver des CV</a></li>
+<li><a href="/recrutement/annonce">Packs annonces</a></li>
+<li><a href="/recrutement/cvtheque">Packs CV</a></li>
+</ul></li>
+</ul>        </nav>
+        <ul class="header-auth">
+            <ul class="inline"><li class="menu-1226 first"><a href="/login" id="ema-log-in">Se connecter</a></li>
+<li class="menu-1217 last"><a href="/inscription" id="ema-sign-up">S´inscrire</a></li>
+</ul>        </ul>
+    </div>
+</header>
+
+
+<main id="main-content" class="wa">
+          <div class="page-title">
+          <div class="container">
+                              <h1>Emplois mécanique Maroc</h1>
+                                                                            <p></p><form class="page-title-search-form form" action="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66" method="post" id="search-form" accept-charset="UTF-8"><div><div class="page-title-search-form form-wrapper" id="edit-basic"><div class="form-field"><label for="search"><input placeholder="Quel poste recherchez-vous ?" id="search" class="form-field form-text" type="text" name="keys" value="" size="15" maxlength="255"></label></div><button type="submit" aria-label="submit button"><img src="/sites/all/themes/africawork3/img/icon/search-blue.svg" alt=""></button><input type="hidden" name="get" value="{&quot;f&quot;:[&quot;im_field_offre_region:57&quot;,&quot;im_field_offre_region:73&quot;,&quot;im_field_offre_region:58&quot;,&quot;im_field_offre_region:64&quot;,&quot;im_field_offre_region:74&quot;,&quot;im_field_offre_region:75&quot;,&quot;im_field_offre_region:59&quot;,&quot;im_field_offre_region:61&quot;,&quot;im_field_offre_region:76&quot;,&quot;im_field_offre_region:60&quot;,&quot;im_field_offre_region:62&quot;,&quot;im_field_offre_region:63&quot;,&quot;im_field_offre_region:65&quot;,&quot;im_field_offre_region:66&quot;]}">
+<input style="display:none;" type="checkbox" id="edit-retain-filters" name="retain-filters" value="1" class="form-checkbox"></div><input type="hidden" name="form_build_id" value="form-bSxJ-54HlL83oz0rUqLee8HCb63N4pzhsg3wZCybILw">
+<input type="hidden" name="form_id" value="emasearch_page_search_form">
+</div></form><p></p>
+                                        </div>
+      </div>
+    
+              <div class="page-content">
+          <div class="container container-grid">
+                                                  <div class="page-search-terms"><div class="current-search-item current-search-item-emasearch-text current-search-item-jobsearch-text-results"></div><div class="current-search-item current-search-item-recruiter current-search-item-recruiter-title-active-items"><div class="page-search-terms">
+      <h2 class="page-search-title">Mes critères de recherche</h2>
+      <ul class="page-search-terms-wrapper"><li><a href="/recherche-jobs-maroc?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary search-keys" title="Retirer">mécanique<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A73&amp;f%5B1%5D=im_field_offre_region%3A58&amp;f%5B2%5D=im_field_offre_region%3A64&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Agadir<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A58&amp;f%5B2%5D=im_field_offre_region%3A64&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Béni Mellal-Khénifra<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A64&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Casablanca-Mohammedia<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Rabat-Salé-Kénitra<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Dakhla<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Errachidia<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Fès<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Marrakech-Safi<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Guelmim<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Laâyoune<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Meknès<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Oujda<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A66" rel="nofollow" class="btn btn-secondary" title="Retirer">Settat<span>⤫</span></a></li><li><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65" rel="nofollow" class="btn btn-secondary" title="Retirer">Tanger-Tétouan-Al Hoceïma<span>⤫</span></a></li></ul></div></div></div><div class="page-main"><aside class="page-search-filter">
+<ul class="search-filter">
+<li id="block-facetapi-qayivrvmh7a0ox96lnt0vnta2fc2jqnv" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-qayivrvmh7a0ox96lnt0vnta2fc2jqnv" role="link">Métiers</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-metiers accordeon-body facetapi-processed" id="facetapi-facet-apachesolrsolr-block-im-field-offre-metiers" style="height: 587px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A1127" rel="nofollow" class="facetapi-inactive active" id="facetapi-link1127">Achats (1)<span class="element-invisible"> Apply Achats filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A29" rel="nofollow" class="facetapi-inactive active" id="facetapi-link29">Commercial, vente (1)<span class="element-invisible"> Apply Commercial, vente filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Gestion, comptabilité, finance (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A31" rel="nofollow" class="facetapi-inactive active" id="facetapi-link31">Informatique, nouvelles technologies (1)<span class="element-invisible"> Apply Informatique, nouvelles technologies filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Juridique (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A32" rel="nofollow" class="facetapi-inactive active" id="facetapi-link32">Management, direction générale (5)<span class="element-invisible"> Apply Management, direction générale filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Marketing, communication (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Métiers de la santé et du social (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A35" rel="nofollow" class="facetapi-inactive active" id="facetapi-link35">Métiers des services (3)<span class="element-invisible"> Apply Métiers des services filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A36" rel="nofollow" class="facetapi-inactive active" id="facetapi-link36">Métiers du BTP (5)<span class="element-invisible"> Apply Métiers du BTP filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A37" rel="nofollow" class="facetapi-inactive active" id="facetapi-link37">Production, maintenance, qualité (39)<span class="element-invisible"> Apply Production, maintenance, qualité filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A39" rel="nofollow" class="facetapi-inactive active" id="facetapi-link39">R&amp;D, gestion de projets (2)<span class="element-invisible"> Apply R&amp;D, gestion de projets filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">RH, formation (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A40" rel="nofollow" class="facetapi-inactive active" id="facetapi-link40">Secrétariat, assistanat (1)<span class="element-invisible"> Apply Secrétariat, assistanat filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A525" rel="nofollow" class="facetapi-inactive active" id="facetapi-link525">Télémarketing, téléassistance (3)<span class="element-invisible"> Apply Télémarketing, téléassistance filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Tourisme, hôtellerie, restauration (0)</span></li>
+<li class="custom-checkbox last"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_metiers%3A28" rel="nofollow" class="facetapi-inactive active" id="facetapi-link28">Transport, logistique (4)<span class="element-invisible"> Apply Transport, logistique filter </span></a></li>
+</ul></li>
+<li id="block-facetapi-0m0fe0tq0rdj0zgvfl6a7penkqkb7idg" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-0m0fe0tq0rdj0zgvfl6a7penkqkb7idg" role="link">Secteurs d'activité</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-secteur accordeon-body" id="facetapi-facet-apachesolrsolr-block-im-field-offre-secteur" style="height: 1810px;"><li class="custom-checkbox disabled first"><span class="disabled">Activités associatives (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Administration publique (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A20" rel="nofollow" class="facetapi-inactive active" id="facetapi-link20">Aéronautique, navale (2)<span class="element-invisible"> Apply Aéronautique, navale filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A21" rel="nofollow" class="facetapi-inactive active" id="facetapi-link21">Agriculture, pêche, aquaculture (1)<span class="element-invisible"> Apply Agriculture, pêche, aquaculture filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A22" rel="nofollow" class="facetapi-inactive active" id="facetapi-link22">Agroalimentaire (1)<span class="element-invisible"> Apply Agroalimentaire filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A23" rel="nofollow" class="facetapi-inactive active" id="facetapi-link23">Ameublement, décoration (1)<span class="element-invisible"> Apply Ameublement, décoration filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A24" rel="nofollow" class="facetapi-inactive active" id="facetapi-link24">Automobile, matériels de transport, réparation (9)<span class="element-invisible"> Apply Automobile, matériels de transport, réparation filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Banque, assurance, finances (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A26" rel="nofollow" class="facetapi-inactive active" id="facetapi-link26">BTP, construction (5)<span class="element-invisible"> Apply BTP, construction filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A27" rel="nofollow" class="facetapi-inactive active" id="facetapi-link27">Centres d´appel, hotline, call center (10)<span class="element-invisible"> Apply Centres d´appel, hotline, call center filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A115" rel="nofollow" class="facetapi-inactive active" id="facetapi-link115">Chimie, pétrochimie, matières premières, mines (2)<span class="element-invisible"> Apply Chimie, pétrochimie, matières premières, mines filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Conseil, audit, comptabilité (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A117" rel="nofollow" class="facetapi-inactive active" id="facetapi-link117">Distribution, vente, commerce de gros (3)<span class="element-invisible"> Apply Distribution, vente, commerce de gros filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Édition, imprimerie (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Éducation, formation (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A120" rel="nofollow" class="facetapi-inactive active" id="facetapi-link120">Electricité, eau, gaz, nucléaire, énergie (9)<span class="element-invisible"> Apply Electricité, eau, gaz, nucléaire, énergie filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Environnement, recyclage (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A123" rel="nofollow" class="facetapi-inactive active" id="facetapi-link123">Equip. électriques, électroniques, optiques, précision (1)<span class="element-invisible"> Apply Equip. électriques, électroniques, optiques, précision filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A124" rel="nofollow" class="facetapi-inactive active" id="facetapi-link124">Equipements mécaniques, machines (11)<span class="element-invisible"> Apply Equipements mécaniques, machines filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Espaces verts, forêts, chasse (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Évènementiel, hôte(sse), accueil (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Hôtellerie, restauration (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Immobilier, architecture, urbanisme (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A130" rel="nofollow" class="facetapi-inactive active" id="facetapi-link130">Import, export (1)<span class="element-invisible"> Apply Import, export filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A131" rel="nofollow" class="facetapi-inactive active" id="facetapi-link131">Industrie pharmaceutique (3)<span class="element-invisible"> Apply Industrie pharmaceutique filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A132" rel="nofollow" class="facetapi-inactive active" id="facetapi-link132">Industrie, production, fabrication, autres (25)<span class="element-invisible"> Apply Industrie, production, fabrication, autres filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Informatique, SSII, Internet (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A134" rel="nofollow" class="facetapi-inactive active" id="facetapi-link134">Ingénierie, études développement (2)<span class="element-invisible"> Apply Ingénierie, études développement filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Intérim, recrutement (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Location (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Luxe, cosmétiques (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A138" rel="nofollow" class="facetapi-inactive active" id="facetapi-link138">Maintenance, entretien, service après vente (1)<span class="element-invisible"> Apply Maintenance, entretien, service après vente filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Manutention (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Marketing, communication, médias (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A141" rel="nofollow" class="facetapi-inactive active" id="facetapi-link141">Métallurgie, sidérurgie (2)<span class="element-invisible"> Apply Métallurgie, sidérurgie filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Nettoyage, sécurité, surveillance (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Papier, bois, caoutchouc, plastique, verre, tabac (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A144" rel="nofollow" class="facetapi-inactive active" id="facetapi-link144">Produits de grande consommation (2)<span class="element-invisible"> Apply Produits de grande consommation filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Qualité, méthodes (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Recherche et développement (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Santé, pharmacie, hôpitaux, équipements médicaux (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Secrétariat (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Services aéroportuaires et maritimes (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A150" rel="nofollow" class="facetapi-inactive active" id="facetapi-link150">Services autres (1)<span class="element-invisible"> Apply Services autres filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Services collectifs et sociaux, services à la personne (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Sport, action culturelle et sociale (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Télécom (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Textile, habillement, cuir, chaussures (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Tourisme, loisirs (0)</span></li>
+<li class="custom-checkbox last"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_secteur%3A156" rel="nofollow" class="facetapi-inactive active" id="facetapi-link156">Transports, logistique, services postaux (3)<span class="element-invisible"> Apply Transports, logistique, services postaux filter </span></a></li>
+</ul></li>
+<li id="block-facetapi-oxobk0e1ydp2i4yufnkbnnbxkjgwy8vt" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-oxobk0e1ydp2i4yufnkbnnbxkjgwy8vt" role="link">Niveaux d'études</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-niveau-etude accordeon-body facetapi-processed" id="facetapi-facet-apachesolrsolr-block-im-field-offre-niveau-etude" style="height: 251px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A50" rel="nofollow" class="facetapi-inactive active" id="facetapi-link50">Qualification avant bac (5)<span class="element-invisible"> Apply Qualification avant bac filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A51" rel="nofollow" class="facetapi-inactive active" id="facetapi-link51">Bac (7)<span class="element-invisible"> Apply Bac filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A52" rel="nofollow" class="facetapi-inactive active" id="facetapi-link52">Bac+1 (9)<span class="element-invisible"> Apply Bac+1 filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A53" rel="nofollow" class="facetapi-inactive active" id="facetapi-link53">Bac+2 (35)<span class="element-invisible"> Apply Bac+2 filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A54" rel="nofollow" class="facetapi-inactive active" id="facetapi-link54">Bac+3 (24)<span class="element-invisible"> Apply Bac+3 filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A55" rel="nofollow" class="facetapi-inactive active" id="facetapi-link55">Bac+4 (22)<span class="element-invisible"> Apply Bac+4 filter </span></a></li>
+<li class="custom-checkbox last"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_etude%3A56" rel="nofollow" class="facetapi-inactive active" id="facetapi-link56">Bac+5 et plus (28)<span class="element-invisible"> Apply Bac+5 et plus filter </span></a></li>
+</ul></li>
+<li id="block-facetapi-vmglnefysjcl0qbebzgogkeyyag2fvey" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-vmglnefysjcl0qbebzgogkeyyag2fvey" role="link">Niveaux d'expérience</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-niveau-experience accordeon-body facetapi-processed" id="facetapi-facet-apachesolrsolr-block-im-field-offre-niveau-experience" style="height: 183px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_experience%3A68" rel="nofollow" class="facetapi-inactive active" id="facetapi-link68">Etudiant, jeune diplômé (5)<span class="element-invisible"> Apply Etudiant, jeune diplômé filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_experience%3A69" rel="nofollow" class="facetapi-inactive active" id="facetapi-link69">Débutant &lt; 2 ans (15)<span class="element-invisible"> Apply Débutant &lt; 2 ans filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_experience%3A70" rel="nofollow" class="facetapi-inactive active" id="facetapi-link70">Expérience entre 2 ans et 5 ans (38)<span class="element-invisible"> Apply Expérience entre 2 ans et 5 ans filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_experience%3A71" rel="nofollow" class="facetapi-inactive active" id="facetapi-link71">Expérience entre 5 ans et 10 ans (26)<span class="element-invisible"> Apply Expérience entre 5 ans et 10 ans filter </span></a></li>
+<li class="custom-checkbox last"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_experience%3A72" rel="nofollow" class="facetapi-inactive active" id="facetapi-link72">Expérience &gt; 10 ans (25)<span class="element-invisible"> Apply Expérience &gt; 10 ans filter </span></a></li>
+</ul></li>
+<li id="block-facetapi-ax1fjqgbrrmuaedewmkzq0ghlinpwzxo" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-ax1fjqgbrrmuaedewmkzq0ghlinpwzxo" role="link">Types de contrat</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-contrat-type accordeon-body facetapi-processed" id="facetapi-facet-apachesolrsolr-block-im-field-offre-contrat-type" style="height: 318px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_contrat_type%3A42" rel="nofollow" class="facetapi-inactive active" id="facetapi-link42">CDI (37)<span class="element-invisible"> Apply CDI filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_contrat_type%3A44" rel="nofollow" class="facetapi-inactive active" id="facetapi-link44">Intérim (16)<span class="element-invisible"> Apply Intérim filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_contrat_type%3A43" rel="nofollow" class="facetapi-inactive active" id="facetapi-link43">CDD (4)<span class="element-invisible"> Apply CDD filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_contrat_type%3A10" rel="nofollow" class="facetapi-inactive active" id="facetapi-link10">Anapec (1)<span class="element-invisible"> Apply Anapec filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_contrat_type%3A45" rel="nofollow" class="facetapi-inactive active" id="facetapi-link45">Stage (1)<span class="element-invisible"> Apply Stage filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Freelance (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Alternance (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Temps partiel (0)</span></li>
+<li class="custom-checkbox disabled last"><span class="disabled">Statutaire (0)</span></li>
+</ul></li>
+<li id="block-facetapi-nskor1kswgvbowzszx9va0wwqfhdtpge" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-nskor1kswgvbowzszx9va0wwqfhdtpge" role="link">Régions</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-region accordeon-body" id="facetapi-facet-apachesolrsolr-block-im-field-offre-region" style="height: 520px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A73&amp;f%5B1%5D=im_field_offre_region%3A58&amp;f%5B2%5D=im_field_offre_region%3A64&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Agadir</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A58&amp;f%5B2%5D=im_field_offre_region%3A64&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Béni Mellal-Khénifra</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A64&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Casablanca-Mohammedia</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Dakhla</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Errachidia</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Fès</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Guelmim</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Laâyoune</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Marrakech-Safi</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Meknès</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Oujda</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A74&amp;f%5B4%5D=im_field_offre_region%3A75&amp;f%5B5%5D=im_field_offre_region%3A59&amp;f%5B6%5D=im_field_offre_region%3A61&amp;f%5B7%5D=im_field_offre_region%3A76&amp;f%5B8%5D=im_field_offre_region%3A60&amp;f%5B9%5D=im_field_offre_region%3A62&amp;f%5B10%5D=im_field_offre_region%3A63&amp;f%5B11%5D=im_field_offre_region%3A65&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Rabat-Salé-Kénitra</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A66" class="checked active">Settat</a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65" class="checked active">Tanger-Tétouan-Al Hoceïma</a></li>
+<li class="custom-checkbox last"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_region%3A955" rel="nofollow" class="facetapi-inactive active" id="facetapi-link955">International (10)<span class="element-invisible"> Apply International filter </span></a></li>
+</ul></li>
+<li id="block-facetapi-dawnucadngmsnfkdg2jkf8eqx3zg5hgz" class="block block-facetapi ema-collapsible-block collapsiblock-processed">
+    <button class="accordeon-header collapsiblock active"><a href="#block-facetapi-dawnucadngmsnfkdg2jkf8eqx3zg5hgz" role="link">Langues</a></button>  <ul class="facetapi-facetapi-emalinks facetapi-facet-im-field-offre-niveau-langue accordeon-body" id="facetapi-facet-apachesolrsolr-block-im-field-offre-niveau-langue" style="height: 2617px;"><li class="custom-checkbox facet-childs-84 first">
+<div class="accordeon-inner"><a href="# " class="accordeon-header active" id="facet-parent-84">Arabe(6)</a><ul class="accordeon-body" style="height: 155px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A531" rel="nofollow" class="facetapi-inactive active" id="facetapi-link531">Maternelle (2)<span class="element-invisible"> Apply Maternelle filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A532" rel="nofollow" class="facetapi-inactive active" id="facetapi-link532">Courant (3)<span class="element-invisible"> Apply Courant filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A533" rel="nofollow" class="facetapi-inactive active" id="facetapi-link533">Bon niveau (1)<span class="element-invisible"> Apply Bon niveau filter </span></a></li>
+<li class="custom-checkbox disabled"><span class="disabled">Intermédiaire (0)</span></li>
+<li class="custom-checkbox disabled last"><span class="disabled">Débutant (0)</span></li>
+</ul></div>
+</li>
+<li class="custom-checkbox facet-childs-86">
+<div class="accordeon-inner"><a href="# " class="accordeon-header active" id="facet-parent-86">Français(20)</a><ul class="accordeon-body" style="height: 155px;"><li class="custom-checkbox first"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A536" rel="nofollow" class="facetapi-inactive active" id="facetapi-link536">Maternelle (2)<span class="element-invisible"> Apply Maternelle filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A537" rel="nofollow" class="facetapi-inactive active" id="facetapi-link537">Courant (4)<span class="element-invisible"> Apply Courant filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A538" rel="nofollow" class="facetapi-inactive active" id="facetapi-link538">Bon niveau (11)<span class="element-invisible"> Apply Bon niveau filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A539" rel="nofollow" class="facetapi-inactive active" id="facetapi-link539">Intermédiaire (2)<span class="element-invisible"> Apply Intermédiaire filter </span></a></li>
+<li class="custom-checkbox last"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A540" rel="nofollow" class="facetapi-inactive active" id="facetapi-link540">Débutant (1)<span class="element-invisible"> Apply Débutant filter </span></a></li>
+</ul></div>
+</li>
+<li class="custom-checkbox facet-childs-87">
+<div class="accordeon-inner"><a href="# " class="accordeon-header active" id="facet-parent-87">Anglais(7)</a><ul class="accordeon-body" style="height: 155px;"><li class="custom-checkbox disabled first"><span class="disabled">Maternelle (0)</span></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A542" rel="nofollow" class="facetapi-inactive active" id="facetapi-link542">Courant (2)<span class="element-invisible"> Apply Courant filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A543" rel="nofollow" class="facetapi-inactive active" id="facetapi-link543">Bon niveau (2)<span class="element-invisible"> Apply Bon niveau filter </span></a></li>
+<li class="custom-checkbox"><a href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;f%5B14%5D=im_field_offre_niveau_langue%3A544" rel="nofollow" class="facetapi-inactive active" id="facetapi-link544">Intermédiaire (3)<span class="element-invisible"> Apply Intermédiaire filter </span></a></li>
+<li class="custom-checkbox disabled last"><span class="disabled">Débutant (0)</span></li>
+</ul></div>
+</li>
+<li class="custom-checkbox disabled"><span class="disabled">Espagnol (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Allemand (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Italien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Haoussa (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Afrikaans (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Albanais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Amharique (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Arménien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Azéri (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Bengalî (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Berbère (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Biélorusse (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Birman (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Bulgare (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Catalan (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Chinois (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Coréen (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Croate (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Danois (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Estonien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Finlandais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Géorgien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Grec (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Hébreu (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Hindi (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Hongrois (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Indonésien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Irlandais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Islandais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Japonais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Kazahk (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Khmer (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Kirghiz (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Lao (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Letton (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Lituanien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Luxembourgeois (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Macédonien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Malais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Mongol (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Néerlandais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Népali (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Norvégien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Ourdou (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Ouzbek (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Persan (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Polonais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Portugais (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Roumain (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Russe (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Serbe (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Slovaque (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Slovène (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Suédois (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Tadjik (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Tamoul (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Tchèque (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Thaï (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Turc (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Turkmène (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Ukrainien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Vietnamien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Bosnien (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Divehi (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Dzongkha (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Luganda (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Oromo (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Somali (0)</span></li>
+<li class="custom-checkbox disabled"><span class="disabled">Swahili (0)</span></li>
+<li class="custom-checkbox disabled last"><span class="disabled">Tigrinya (0)</span></li>
+</ul></li>
+</ul>
+</aside>
+
+<div class="page-search-jobs">
+    <div class="item-list"><ul class="page-search-jobs-type"><li class="btn btn-primary first"><a href="https://www.emploi.ma/recherche-jobs-maroc?utm_source=site&amp;utm_medium=link&amp;utm_campaign=search_split&amp;utm_term=all_jobs">Tous les emplois</a></li>
+<li class="btn btn-primary"><a href="https://www.emploi.ma/recherche-jobs-maroc?f%5B0%5D=im_field_offre_niveau_etude%3A55&amp;f%5B1%5D=im_field_offre_niveau_etude%3A56&amp;f%5B2%5D=im_field_offre_niveau_experience%3A71&amp;f%5B3%5D=im_field_offre_niveau_experience%3A72&amp;utm_source=site&amp;utm_medium=link&amp;utm_campaign=search_split&amp;utm_term=management">Emplois Management</a></li>
+<li class="btn btn-primary"><a href="https://www.emploi.ma/recherche-jobs-maroc?f%5B0%5D=im_field_offre_metiers%3A31&amp;utm_source=site&amp;utm_medium=link&amp;utm_campaign=search_split&amp;utm_term=it">Emplois IT</a></li>
+<li class="btn btn-primary last"><a href="https://www.emploi.ma/recherche-jobs-maroc?f%5B0%5D=im_field_offre_metiers%3A525&amp;utm_source=site&amp;utm_medium=link&amp;utm_campaign=search_split&amp;utm_term=call_center">Emplois Centres d'Appels</a></li>
+</ul></div>    <h2 class="page-search-title"><span>54</span> Offres d'emploi trouvées</h2>
+    <div class="page-search-jobs-wrapper">
+              <div class="pagination"><div class="pagination">
+Page :<ul>
+<li class="pager-current pagination-numbers">1</li><li class="pager-item active pagination-numbers"><a title="Aller à la page 2" href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;page=1">2</a></li><li class="pager-item active pagination-numbers"><a title="Aller à la dernière page" href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;page=2">3</a></li><li class="pager-next active pagination-next"><a title="Aller à la page suivante" href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;page=1"></a></li></ul>
+</div></div>
+                    <div class="page-search-jobs-content">
+            <div class="card card-job featured" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-mecaniien-mohammedia-9403945">
+    <picture>
+        <a href="/recruteur/7666168"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/telechargement_2_3.jpg?itok=7dE_daZd" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-mecaniien-mohammedia-9403945" title="Technicien Mécanicien - Mohammedia">Technicien Mécanicien - Mohammedia</a></h3>
+        <a href="/recruteur/7666168" class="card-job-company company-name">Batifer</a>                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un&nbsp; Technicien Mécanicien.    Missions principales :    Assurer l’installation et l’entretien des équipements, ainsi que la mise à jour ou la modification des installations existantes selon les besoins.  Réaliser la maintenance préventive et corrective des installations mécaniques (hydrauliques et pneumatiques) :  Effectuer les opérations de maintenance régulière afin de garantir le bon fonctionnement des équipements.  Identifier et résoudre les dysfonctionnements mécaniques des installations.    Assurer le diagnostic des pannes mécaniques (hydrauliques et pneumatiques) :  Détecter rapidement les anomalies sur les équipements et installations.  Proposer et mettre en œuvre des... </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 &amp; Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans et plus</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>BTP</strong></li>
+                                  </ul>
+          <time datetime="2026-07-10">10.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-fabrication-mecanique-casablanca-9441300">
+    <picture>
+        <a href="/recruteur/8068413"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_tectra_5.jpg?itok=Ex51fDEx" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-fabrication-mecanique-casablanca-9441300" title="Technicien en Fabrication Mécanique - Casablanca">Technicien en Fabrication Mécanique - Casablanca</a></h3>
+        <a href="/recruteur/8068413" class="card-job-company company-name">Tectra</a>                <div class="card-job-description">
+          <p> Tectra recrute des techniciens débutants en fabrication mécanique (bac+2) pour son client dans le secteur pétrolier sur Casablanca ( mission 3 mois ) .   Contrat d'intérim+avantages sociaux  Rémunération : 3500 dh net  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Etudiant, jeune diplômé</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Fabrication - Fabrication Mécanique - Maintenance - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-03">03.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-electromecaniquemecanique-casablanca-9425935">
+    <picture>
+        <a href="/recruteur/8068413"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_tectra_5.jpg?itok=Ex51fDEx" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-electromecaniquemecanique-casablanca-9425935" title="Technicien Electromécanique/Mécanique - Casablanca">Technicien Electromécanique/Mécanique - Casablanca</a></h3>
+        <a href="/recruteur/8068413" class="card-job-company company-name">Tectra</a>                <div class="card-job-description">
+          <p> Tectra recrute des  techniciens en éléctromecanique/mécanique/electricité  pour son client sur roches noires casablanca (mission 3 mois ) .   Contrat d'intérim+avantages sociaux&nbsp;  Rémuneration : 3500 dh net  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Etudiant, jeune diplômé</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Maintenance - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-06-26">26.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/inspecteur-mecanique-mohammedia-9001489">
+    <picture>
+        <a href="/recruteur/6872624"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo-removebg-preview_2.png?itok=oRMp5_I1" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/inspecteur-mecanique-mohammedia-9001489" title="Inspecteur Mécanique - Mohammedia">Inspecteur Mécanique - Mohammedia</a></h3>
+        <a href="/recruteur/6872624" class="card-job-company company-name">Briqueterie Jbel Annour</a>                <div class="card-job-description">
+          <p> Nous recherchons un  Inspecteur Mécanique  pour rejoindre notre équipe. Ce poste implique la vérification et l'inspection des équipements mécaniques, ainsi que la supervision des opérations de maintenance, dans un environnement industriel exigeant.   Missions :    Effectuer des inspections régulières des équipements mécaniques pour assurer leur conformité et leur bon fonctionnement.  Superviser les activités de maintenance préventive et corrective pour garantir la sécurité et la performance des machines.  Identifier les problèmes potentiels et proposer des solutions pour optimiser la fiabilité des équipements.  Collaborer avec les équipes techniques pour planifier et exécuter les interventions de maintenance.  Rédiger des... </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 &amp; Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans et plus</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Entretien - Maintenance - Mécanique - Sécurité</strong></li>
+                                  </ul>
+          <time datetime="2026-06-19">19.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/preparateur-mecanique-mohammedia-9403261">
+    <picture>
+        <a href="/recruteur/6872624"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo-removebg-preview_2.png?itok=oRMp5_I1" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/preparateur-mecanique-mohammedia-9403261" title="Préparateur Mécanique - Mohammedia">Préparateur Mécanique - Mohammedia</a></h3>
+        <a href="/recruteur/6872624" class="card-job-company company-name">Briqueterie Jbel Annour</a>                <div class="card-job-description">
+          <p> Nous recherchons un  Préparateur Mécanique  pour rejoindre notre équipe. Ce poste implique la préparation, l'organisation et la vérification des composants mécaniques nécessaires aux projets de construction ou de fabrication, en assurant la conformité aux normes en vigueur. Le candidat travaillera dans un environnement dynamique en collaboration avec différentes équipes techniques.   Missions :    Préparer et organiser les pièces mécaniques en fonction des plans et des spécifications techniques.  Vérifier la conformité des composants avant leur utilisation ou assemblage.  Assurer la maintenance et le bon fonctionnement des équipements mécaniques utilisés dans le processus de préparation.  Collaborer avec les équipes de... </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 &amp; Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans et plus</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>BTP - Construction</strong></li>
+                                  </ul>
+          <time datetime="2026-06-16">16.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/charge-maintenance-entretien-mecanique-casablanca-9367962">
+    <picture>
+        <a href="/recruteur/4530384"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/tectra_logo_web_2.jpg?itok=yL_K0IHr" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/charge-maintenance-entretien-mecanique-casablanca-9367962" title="Chargé de Maintenance et Entretien (mécanique) - Casablanca ">Chargé de Maintenance et Entretien (mécanique) - Casablanca </a></h3>
+        <a href="/recruteur/4530384" class="card-job-company company-name">Tectra Casa Tertiaire – Recrutement</a>                <div class="card-job-description">
+          <p> Nous cherchons pour notre client un  Chargé de Maintenance et Entretien (mécanique)  chargé d’assurer la gestion et la maintenance du matériel BTP ainsi que le suivi des opérations en atelier.   Missions principales :    Maintenance et entretien des équipements (compresseurs, groupes électrogènes, motopompes…)  Suivi des opérations de maintenance et respect des procédures (PMS)  Contrôle du matériel et gestion des interventions techniques  Suivi de la conformité et application des règles de sécurité (EPI, atelier)  Réalisation d’inventaires et contrôle des équipements  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 &amp; Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Débutant &lt; 2 ans et plus</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Communication - Électromécanique - Génie Électrique - Maintenance - Maintenance Industrielle - Production - Qualité - Techniques de Maintenance</strong></li>
+                                  </ul>
+          <time datetime="2026-05-20">20.05.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/responsable-controle-securite-tout-maroc-9467201">
+    <picture>
+        <a href="/recruteur/8717685"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo-3.jpg?itok=lgafY_S2" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/responsable-controle-securite-tout-maroc-9467201" title="Responsable Contrôle et Sécurité - Tout Le Maroc">Responsable Contrôle et Sécurité - Tout Le Maroc</a></h3>
+        <a href="/recruteur/8717685" class="card-job-company company-name">Salam Gaz</a>                <div class="card-job-description">
+          <p>  Nous sommes à la recherche d'un&nbsp; Responsable Contrôle et Sécurité.     Missions :     Assurer la maintenance des installations dans les meilleures conditions de sécurité et de qualité et assurer la mise en œuvre de la Politique Sécurité sur le terrain.   </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+3, Bac+4 - Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Agadir - Béni Mellal-Khénifra - Casablanca-Mohammedia - Dakhla -... </strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Hydraulique - Hydraulique Pneumatique - Maintenance - Maintenance Hydraulique - Mécanique Hydraulique - Pneumatique - Qualité - Qualité Mécanique</strong></li>
+                                  </ul>
+          <time datetime="2026-07-08">08.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-maintenance-tout-maroc-9446292">
+    <picture>
+        <a href="/recruteur/8717685"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo-3.jpg?itok=lgafY_S2" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-maintenance-tout-maroc-9446292" title="Technicien de Maintenance - Tout Le Maroc">Technicien de Maintenance - Tout Le Maroc</a></h3>
+        <a href="/recruteur/8717685" class="card-job-company company-name">Salam Gaz</a>                <div class="card-job-description">
+          <p> Notre entreprise, leader dans l'industrie de l'emplissage et du conditionnement en bouteille, recherche activement un  Technicien en Maintenance  Polyvalent pour renforcer notre équipe dédiée à maintenir nos équipements de production performants. </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 - Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Agadir - Béni Mellal-Khénifra - Casablanca-Mohammedia - Dakhla -... </strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Hydraulique - Hydraulique Pneumatique - Industrie - Maintenance - Mécanique Hydraulique - Pneumatique - Production - Qualité - Qualité Mécanique</strong></li>
+                                  </ul>
+          <time datetime="2026-07-04">04.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/mecanicien-maintenance-industrielle-casablanca-9440716">
+    <picture>
+        <a href="/recruteur/477793"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_tectra_12.jpg?itok=A_xQzG4a" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/mecanicien-maintenance-industrielle-casablanca-9440716" title="Mécanicien de Maintenance Industrielle - Casablanca  ">Mécanicien de Maintenance Industrielle - Casablanca  </a></h3>
+        <a href="/recruteur/477793" class="card-job-company company-name">Tectra Casa Bourgogne – Recrutement</a>                <div class="card-job-description">
+          <p> Nous recherchons un  Mécanicien de Maintenance Industrielle  pour rejoindre notre équipe. Ce poste implique l'entretien et la réparation de machines industrielles, en assurant leur bon fonctionnement dans un environnement de production dynamique.   Missions :    Assurer la maintenance préventive et corrective des équipements mécaniques industriels.  Diagnostiquer et résoudre les pannes sur les machines de production.  Participer à l'installation et à la mise en service de nouveaux équipements.  Respecter les procédures de sécurité et de qualité en vigueur.  Collaborer avec l'équipe de production pour optimiser la performance des machines.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 &amp; Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans et plus</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Machines - Maintenance - Maintenance Industrielle - Maintenance Préventive - Mécanique Industrielle - Production - Qualité - Qualité Mécanique - Réparation</strong></li>
+                                  </ul>
+          <time datetime="2026-07-02">02.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-maintenance-sala-al-jadida-parc-technopolis-rabat-8299955">
+    <picture>
+        <a href="/recruteur/4950988"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/lear20logo20-20original20pantone20485c20and20black_1.jpg?itok=y0MztVcs" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-maintenance-sala-al-jadida-parc-technopolis-rabat-8299955" title="Technicien de Maintenance - Sala Al Jadida - Parc Technopolis Rabat ">Technicien de Maintenance - Sala Al Jadida - Parc Technopolis Rabat </a></h3>
+        <a href="/recruteur/4950988" class="card-job-company company-name">Lear Automotive Morocco</a>                <div class="card-job-description">
+          <p> Dans le cadre du développement de notre activité, nous cherchons des  Techniciens de Maintenance.   Rattaché au superviseur maintenance, vos  principales missions  seront :   Réaliser les opérations de maintenance préventive, curative et travaux neufs sur l’ensemble des machines conformément aux plannings et processus définis  Organiser la réalisation des interventions selon la criticité et les contraintes de production  Accompagner et contrôler les travaux de la sous-traitance  Remonter les anomalies constatées sur les équipements et participer à la clôture des plans d’action  Participer à la gestion des pièces de rechange pour l’ensemble des machines sous votre responsabilité.   &nbsp;   </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Rabat-Salé-Kénitra</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Automatisme Mécanique - Dessin Industriel - DU - Électromécanique - Électronique - Machines - Maintenance - Maintenance Industrielle - Maintenance Préventive - Mécanique Électronique - Processus - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-09">09.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/maintenance-technician-sala-al-jadida-parc-technopolis-rabat-9165261">
+    <picture>
+        <a href="/recruteur/4950988"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/lear20logo20-20original20pantone20485c20and20black_1.jpg?itok=y0MztVcs" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/maintenance-technician-sala-al-jadida-parc-technopolis-rabat-9165261" title="Maintenance Technician - Sala Al Jadida - Parc Technopolis Rabat ">Maintenance Technician - Sala Al Jadida - Parc Technopolis Rabat </a></h3>
+        <a href="/recruteur/4950988" class="card-job-company company-name">Lear Automotive Morocco</a>                <div class="card-job-description">
+          <p> Dans le cadre du développement de notre activité, nous cherchons des  Techniciens de Maintenance.   Rattaché au superviseur maintenance, vos  principales missions  seront :   Réaliser les opérations de maintenance préventive, curative et travaux neufs sur l’ensemble des machines conformément aux plannings et processus définis  Organiser la réalisation des interventions selon la criticité et les contraintes de production  Accompagner et contrôler les travaux de la sous-traitance  Remonter les anomalies constatées sur les équipements et participer à la clôture des plans d’action  Participer à la gestion des pièces de rechange pour l’ensemble des machines sous votre responsabilité.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2 &amp; Bac+3</strong></li>
+                                            <li>Niveau d'expérience : <strong>Débutant &lt; 2 ans &amp; Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Rabat-Salé-Kénitra</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Automatisme Mécanique - Dessin Industriel - DU - Électromécanique - Électronique - Machines - Maintenance - Maintenance Industrielle - Maintenance Préventive - Mécanique Électronique - Processus - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-09">09.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/dessinateur-projeteur-hf-tanger-9458690">
+    <picture>
+        <a href="/recruteur/2589051"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/capture_206.png?itok=dk91ggwz" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/dessinateur-projeteur-hf-tanger-9458690" title="Dessinateur Projeteur (H/F) - Tanger ">Dessinateur Projeteur (H/F) - Tanger </a></h3>
+        <a href="/recruteur/2589051" class="card-job-company company-name">Crit Tanger</a>                <div class="card-job-description">
+          <p> Pour le compte de notre client, une entreprise spécialisée dans la conception de machines spéciales, l'automatisation et les solutions industrielles, nous recherchons un  Dessinateur Projeteur (H/F)  en CDI à Tanger.   Missions :    Réaliser les études et les plans de conception de machines spéciales.  Concevoir des ensembles 3D et des plans de détail 2D sous SolidWorks.  Analyser les cahiers des charges et les spécifications techniques.  Participer aux essais, à la mise en production et à l'amélioration des équipements.  Collaborer avec les équipes projets, automatisme, achats et production.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+3, Bac+4 &amp; Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 5 ans et 10 ans &amp; Expérience &gt; 10 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Tanger-Tétouan-Al Hoceïma</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Génie Mécanique - Machines - Maintenance - Production - Qualité - SOLIDWORKS</strong></li>
+                                  </ul>
+          <time datetime="2026-07-03">03.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/coordinateur-maintenance-hf-kenitra-9461531">
+    <picture>
+        <a href="/recruteur/2589051"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/capture_206.png?itok=dk91ggwz" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/coordinateur-maintenance-hf-kenitra-9461531" title="Coordinateur de Maintenance H/F - Kénitra">Coordinateur de Maintenance H/F - Kénitra</a></h3>
+        <a href="/recruteur/2589051" class="card-job-company company-name">Crit Tanger</a>                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un&nbsp; Coordinateur de Maintenance H/F.    Missions Principales :      Planification et Ordonnancement :  Planifier les arrêts techniques et coordonner les interventions de maintenance (mécanique, électrique, automatisme, hydraulique) pour minimiser l’impact sur la production.     Supervision du Préventif &amp; Correctif :  Suivre l'exécution des plans de maintenance préventive et s'assurer de la réactivité des équipes en cas de panne (curatif).     Gestion de la GMAO :  Piloter l'outil de Gestion de Maintenance Assistée par Ordinateur (GMAO) : création des bons de travail, suivi des indicateurs de performance (MTBF, MTTR), et mise à jour des historiques.     Gestion des... </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+3</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Rabat-Salé-Kénitra</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Agroalimentaire - AMDEC - Amélioration Continue - Automatisme Hydraulique - Électromécanique - Génie Industriel - Gestion de la Maintenance - Hydraulique - Hydraulique Pneumatique - Ishikawa - Maintenance - Maintenance Mécanique - Maintenance Préventive - Mécanique Hydraulique - MTBF - Ordonnancement Pilotage Coordination - Planification et Ordonnancement - Plasturgie - Pneumatique - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-06">06.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/responsable-maintenance-casablanca-9228474">
+    <picture>
+        <a href="/recruteur/745703"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_28_08_23.png?itok=u9vUsPEu" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/responsable-maintenance-casablanca-9228474" title="Responsable Maintenance  - Casablanca">Responsable Maintenance  - Casablanca</a></h3>
+        <a href="/recruteur/745703" class="card-job-company company-name">Bottu</a>                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un  Responsable Maintenance .    Compétences Techniques   :   Concepts de la mécanique industrielle  Techniques et concepts de l’électricité et des automatismes industriels  Procédés généraux de fabrication  Méthodes d’élaboration et de gestion des plannings de la maintenance  Outils d’analyse des modes de défaillance des machines  Qualification des équipements et des machines…  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 5 ans et 10 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Automatisme Industriel - Électromécanique - Fabrication - Gestion - Gestion de la Maintenance - Machines - Maintenance - Maintenance Industrielle - Management - Management Mécanique - Mécanique Industrielle - Procédés - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-06-17">17.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/ingenieur-maintenance-casablanca-9315495">
+    <picture>
+        <a href="/recruteur/745703"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_28_08_23.png?itok=u9vUsPEu" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/ingenieur-maintenance-casablanca-9315495" title="Ingénieur Maintenance - Casablanca">Ingénieur Maintenance - Casablanca</a></h3>
+        <a href="/recruteur/745703" class="card-job-company company-name">Bottu</a>                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un  Ingénieur&nbsp;Maintenance.     Compétences Techniques   :   Concepts de la mécanique industrielle  Techniques et concepts de l’électricité et des automatismes industriels  Procédés généraux de fabrication  Méthodes d’élaboration et de gestion des plannings de la maintenance  Outils d’analyse des modes de défaillance des machines  Qualification des équipements et des machines…  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Automatisme Industriel - Électromécanique - Fabrication - Gestion - Gestion de la Maintenance - Machines - Maintenance - Maintenance Industrielle - Management - Management Mécanique - Mécanique Industrielle - Procédés - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-06-17">17.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/operateur-machines-agadir-9414222">
+    <picture>
+        <img typeof="foaf:Image" src="https://www.emploi.ma/sites/all/themes/africawork3/img/logo-non-dispo.jpg" alt="Confidentiel" title="Confidentiel">    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/operateur-machines-agadir-9414222" title="Opérateur de Machines - Agadir">Opérateur de Machines - Agadir</a></h3>
+        N.C.                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un&nbsp; Opérateur de Machines.    Missions :    Préparer les matières premières et assurer le bon fonctionnement des machines en effectuant les réglages nécessaires pour optimiser la productivité.  Contrôler la qualité des produits en respectant les procédures en vigueur et effectuer les autocontrôles systématiques.  Assurer la maintenance préventive, curative et palliative des équipements, tout en collaborant étroitement avec l'équipe de maintenance.  Veiller à la propreté et au rangement de la zone de travail et des machines sous sa responsabilité.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Débutant &lt; 2 ans &amp; Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Agadir</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Gestion de la Qualité - Machines - Maintenance - Maintenance Mécanique - Maintenance Préventive - Normes de Qualité - Production - Productivité - Qualité - Qualité de la Production</strong></li>
+                                  </ul>
+          <time datetime="2026-07-01">01.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-maintenance-industrielle-hf-kenitra-9436802">
+    <picture>
+        <a href="/recruteur/2589051"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/capture_206.png?itok=dk91ggwz" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-maintenance-industrielle-hf-kenitra-9436802" title="Technicien de Maintenance Industrielle H/F - Kénitra">Technicien de Maintenance Industrielle H/F - Kénitra</a></h3>
+        <a href="/recruteur/2589051" class="card-job-company company-name">Crit Tanger</a>                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un&nbsp; Technicien de Maintenance Industrielle H/F.    Responsabilités &amp; Missions Réelles    1. Opérations de Maintenance :      Correctif :  Diagnostiquer les pannes (origines électriques, mécaniques, hydrauliques ou automatismes) et réparer l'outil de production dans le respect des règles de sécurité.     Préventif :  Réaliser les contrôles périodiques, les vidanges, les changements de pièces d'usure et les réglages selon le planning de maintenance.     2. Suivi et Fiabilisation :     Saisir l'ensemble des interventions sur la  GMAO  (Gestion de la Maintenance Assistée par Ordinateur) pour alimenter l'historique et l'analyse des défaillances.    Participer à l'... </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Rabat-Salé-Kénitra</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Câblage - Électricité Industrielle - Électromécanique - Génie Mécanique - Gestion de la Maintenance - Maintenance - Maintenance Industrielle - Production - Production Industrielle - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-01">01.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/responsable-maintenance-8357543">
+    <picture>
+        <a href="/recruteur/745703"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_28_08_23.png?itok=u9vUsPEu" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/responsable-maintenance-8357543" title="Responsable Maintenance">Responsable Maintenance</a></h3>
+        <a href="/recruteur/745703" class="card-job-company company-name">Bottu</a>                <div class="card-job-description">
+          <p>   Le Poste:    Nous sommes à la recherche d'un  Responsable Maintenance.     Compétences Techniques   :   Concepts de la mécanique industrielle  Techniques et concepts de l’électricité et des automatismes industriels  Procédés généraux de fabrication  Méthodes d’élaboration et de gestion des plannings de la maintenance  Outils d’analyse des modes de défaillance des machines  Qualification des équipements et des machines…  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Automatisme Industriel - Électromécanique - Fabrication - Gestion - Gestion de la Maintenance - Machines - Maintenance - Maintenance Industrielle - Management - Management Mécanique - Mécanique Industrielle - Procédés - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-06-10">10.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/gestionnaire-administratif-casablanca-9441399">
+    <picture>
+        <a href="/recruteur/2804776"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_groupe_mce_i_-_002.jpg?itok=x8_OpipD" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/gestionnaire-administratif-casablanca-9441399" title="Gestionnaire Administratif  - Casablanca">Gestionnaire Administratif  - Casablanca</a></h3>
+        <a href="/recruteur/2804776" class="card-job-company company-name">Groupe Mce</a>                <div class="card-job-description">
+          <p> Nous recherchons un  Gestionnaire Administratif  pour rejoindre notre équipe. Ce poste implique la gestion des tâches administratives et la coordination des activités au sein d'une entreprise dynamique opérant dans le secteur de l'énergie et des équipements mécaniques.   Missions :    Organiser et suivre les dossiers administratifs liés aux projets de l'entreprise.  Assurer la gestion des documents et la mise à jour des bases de données administratives.  Coordonner la communication entre les différentes équipes et services.  Participer à la préparation des rapports et des présentations pour la direction.  Assister dans la planification et la gestion des échéances administratives.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+3</strong></li>
+                                            <li>Niveau d'expérience : <strong>Débutant &lt; 2 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Assistanat - Dossiers - Dossiers Administratifs - Gestion Administrative - Gestion des Documents - Secrétariat</strong></li>
+                                  </ul>
+          <time datetime="2026-07-03">03.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-maintenance-electomecanique-casablanca-9472093">
+    <picture>
+        <a href="/recruteur/4867282"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/tectra_logo_4_emploi_ma_1.jpg?itok=ItwsYVLy" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-maintenance-electomecanique-casablanca-9472093" title="Technicien de Maintenance Eléctomécanique - Casablanca">Technicien de Maintenance Eléctomécanique - Casablanca</a></h3>
+        <a href="/recruteur/4867282" class="card-job-company company-name">Tectra Agence Ain Sbaa</a>                <div class="card-job-description">
+          <p> L’Humain est au cœur de notre métier !  TECTRA est aujourd’hui leader du conseil en Ressources Humaines au Maroc. Avec plus de 1000 clients actifs multisectoriels et une force de réseaux de 27 agences partout dans le Royaume, Tectra vous accompagne dans votre recherche d’emploi.&nbsp;  Pour l’un de ses clients, dans L'INDUSTRIE , TECTRA recherche un(e)  Technicien de Maintenance en Électromécanique , à Casablanca.   Missions Principales :    Assurer la maintenance préventive et corrective des équipements.  Diagnostiquer et réparer les pannes électromécaniques.  Effectuer les réglages, contrôles et essais des machines.  Garantir la disponibilité et la sécurité des installations.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Débutant &lt; 2 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Électromécanique - Machines - Maintenance - Maintenance Préventive - Mécanique Industrielle - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-10">10.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/mecanicien-industriel-debutant-casablanca-9420392">
+    <picture>
+        <a href="/recruteur/8871336"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo_tectra_6.jpg?itok=mdcTy_gu" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/mecanicien-industriel-debutant-casablanca-9420392" title="Mécanicien Industriel Débutant - Casablanca">Mécanicien Industriel Débutant - Casablanca</a></h3>
+        <a href="/recruteur/8871336" class="card-job-company company-name">Tectra Recrutement Maroc</a>                <div class="card-job-description">
+          <p> Nous recherchons un  Mécanicien Industriel Débutant  pour rejoindre notre équipe. Ce poste implique la réalisation d'opérations de maintenance et de production dans un environnement industriel dynamique, en assurant la conformité des équipements et la qualité du travail effectué.   Missions :    Effectuer des opérations de maintenance préventive et corrective sur les équipements industriels.  Participer à la surveillance et au contrôle des machines de production.  Assurer le suivi des interventions et la documentation des travaux réalisés.  Collaborer avec l'équipe de production pour optimiser le fonctionnement des équipements.  Respecter les normes de sécurité et de qualité en vigueur dans l'entreprise.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+1 &amp; Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Débutant &lt; 2 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>Intérim</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Casablanca-Mohammedia</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Machines - Maintenance - Maintenance Mécanique - Maintenance Préventive - Mécanique Industrielle - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-06-24">24.06.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/contremaitre-centre-emplisseur-tout-maroc-9472664">
+    <picture>
+        <img typeof="foaf:Image" src="https://www.emploi.ma/sites/all/themes/africawork3/img/logo-non-dispo.jpg" alt="Confidentiel" title="Confidentiel">    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/contremaitre-centre-emplisseur-tout-maroc-9472664" title="Contremaître Centre Emplisseur - Tout Le Maroc">Contremaître Centre Emplisseur - Tout Le Maroc</a></h3>
+        N.C.                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un&nbsp; Contremaître centre emplisseur.    Missions :    Assurer l'ordonnancement et l'exploitation du Centre Emplisseur Ainsi que la maintenance des équipements dans les Meilleures Conditions de Sécurité , de respect de l'environnement et de couts touts en garantissant une amélioration continue des performances .  Assurer la gestion du centre emplisseur dans les meilleures conditions de sécurité, de coût et de rendement et veille à accroître ses parts de marché  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 - Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 5 ans et 10 ans - Expérience &gt; 10 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Agadir - Béni Mellal-Khénifra - Casablanca-Mohammedia - Dakhla -... </strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Amélioration Continue - Électromécanique - Exploitation - Maintenance - Ordonnancement - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-10">10.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/operateur-mouvements-tout-maroc-9467205">
+    <picture>
+        <a href="/recruteur/8717685"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/logo-3.jpg?itok=lgafY_S2" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/operateur-mouvements-tout-maroc-9467205" title="Opérateur Mouvements - Tout le Maroc">Opérateur Mouvements - Tout le Maroc</a></h3>
+        <a href="/recruteur/8717685" class="card-job-company company-name">Salam Gaz</a>                <div class="card-job-description">
+          <p>  Nous sommes à la recherche d'un&nbsp; Opérateur Mouvements (Profil Technicien).     Missions :     Assurer la gestion des mouvements de GPL vrac dans les meilleures conditions de sécurité.   </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Agadir - Béni Mellal-Khénifra - Casablanca-Mohammedia - Dakhla -... </strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Hydraulique - Maintenance - Maintenance Hydraulique - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-08">08.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/chef-centre-tout-maroc-9467185">
+    <picture>
+        <img typeof="foaf:Image" src="https://www.emploi.ma/sites/all/themes/africawork3/img/logo-non-dispo.jpg" alt="Confidentiel" title="Confidentiel">    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/chef-centre-tout-maroc-9467185" title="Chef de Centre  - Tout Le Maroc">Chef de Centre  - Tout Le Maroc</a></h3>
+        N.C.                <div class="card-job-description">
+          <p> Nous sommes à la recherche d'un&nbsp; Chef du Centre Emplisseur.    Mission :    Assurer la gestion du centre emplisseur dans les meilleures conditions de sécurité, de coût et de rendement et veille à accroître ses parts de marché  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2, Bac+3, Bac+4 - Bac+5 et plus</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 5 ans et 10 ans - Expérience &gt; 10 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Agadir - Béni Mellal-Khénifra - Casablanca-Mohammedia - Dakhla -... </strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Électromécanique - Maintenance - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-08">08.07.2026</time>
+              </div>
+    </div>
+<div class="card card-job" data-href="https://www.emploi.ma/offre-emploi-maroc/technicien-maintenance-electromecanique-chaudiere-kenitra-9438322">
+    <picture>
+        <a href="/recruteur/3671200"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/styles/thumbnail/public/logo/tectra_0.png?itok=oEg8U8M8" width="" height="" alt=""></a>    </picture>
+    <div class="card-job-detail">
+        <h3><a href="/offre-emploi-maroc/technicien-maintenance-electromecanique-chaudiere-kenitra-9438322" title="Technicien de Maintenance Electromécanique et Chaudière - Kénitra">Technicien de Maintenance Electromécanique et Chaudière - Kénitra</a></h3>
+        <a href="/recruteur/3671200" class="card-job-company company-name">Tectra</a>                <div class="card-job-description">
+          <p> Pour l’un de ses clients, dans le secteur agroalimentaire , TECTRA recherche un  Technicien de Maintenance Electromécanique et Chaudière , à Kénitra.    Missions Principales&nbsp;:     Bonne maîtrise de la maintenance industrielle préventive et corrective.  Connaissances en électromécanique, mécanique industrielle, électricité industrielle et automatisme.  Capacité à diagnostiquer les pannes et à mettre en œuvre les actions correctives adaptées.  </p>
+          <a href="#">+plus</a>
+        </div>
+                  <ul>
+                              <li>Niveau d´études requis : <strong>Bac+2 &amp; Bac+3</strong></li>
+                                            <li>Niveau d'expérience : <strong>Expérience entre 2 ans et 5 ans</strong></li>
+                                            <li>
+                                 Contrat proposé
+                             : <strong>CDI</strong>
+            </li>
+                            
+                                                  <li>Région de : <strong>Rabat-Salé-Kénitra</strong></li>
+            <!-- new tags position -->
+                                          <li>Compétences clés : <strong>Automatisme - Électricité Industrielle - Électromécanique - Maintenance - Maintenance Industrielle - Mécanique Industrielle - Production - Qualité</strong></li>
+                                  </ul>
+          <time datetime="2026-07-01">01.07.2026</time>
+              </div>
+    </div>
+        </div>
+      </div>
+                          <div class="pagination"><div class="pagination">
+Page :<ul>
+<li class="pager-current pagination-numbers">1</li><li class="pager-item active pagination-numbers"><a title="Aller à la page 2" href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;page=1">2</a></li><li class="pager-item active pagination-numbers"><a title="Aller à la dernière page" href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;page=2">3</a></li><li class="pager-next active pagination-next"><a title="Aller à la page suivante" href="/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&amp;f%5B1%5D=im_field_offre_region%3A73&amp;f%5B2%5D=im_field_offre_region%3A58&amp;f%5B3%5D=im_field_offre_region%3A64&amp;f%5B4%5D=im_field_offre_region%3A74&amp;f%5B5%5D=im_field_offre_region%3A75&amp;f%5B6%5D=im_field_offre_region%3A59&amp;f%5B7%5D=im_field_offre_region%3A61&amp;f%5B8%5D=im_field_offre_region%3A76&amp;f%5B9%5D=im_field_offre_region%3A60&amp;f%5B10%5D=im_field_offre_region%3A62&amp;f%5B11%5D=im_field_offre_region%3A63&amp;f%5B12%5D=im_field_offre_region%3A65&amp;f%5B13%5D=im_field_offre_region%3A66&amp;page=1"></a></li></ul>
+</div></div>
+    </div>
+                </div>
+      </div>
+</div></main>
+
+  <div id="banner728-90-bottom-wrapper">
+  <div id="banner728-90-bottom" class="d-flex justify-center my-2"><a href="https://www.emploi.ma/recherche-jobs-maroc?fq%5B0%5D=is_recruiter_nid%3A7262868" rel="nofollow" target="_blank" onclick="trackOutboundLink(&quot;https://www.emploi.ma/recherche-jobs-maroc?fq%5B0%5D=is_recruiter_nid%3A7262868&quot;, &quot;outbound&quot;, &quot;click&quot;);"><img typeof="foaf:Image" src="https://www.emploi.ma/sites/default/files/728x90_gif_banner_africashore_it_vacancies_africa_white_vf.gif" alt=""></a></div>  </div>
+<div class="clearfix"></div>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.emploi.ma/recherche-jobs-maroc/m%C3%A9canique?f%5B0%5D=im_field_offre_region%3A57&f%5B1%5D=im_field_offre_region%3A73&f%5B2%5D=im_field_offre_region%3A58&f%5B3%5D=im_field_offre_region%3A64&f%5B4%5D=im_field_offre_region%3A74&f%5B5%5D=im_field_offre_region%3A75&f%5B6%5D=im_field_offre_region%3A59&f%5B7%5D=im_field_offre_region%3A61&f%5B8%5D=im_field_offre_region%3A76&f%5B9%5D=im_field_offre_region%3A60&f%5B10%5D=im_field_offre_region%3A62&f%5B11%5D=im_field_offre_region%3A63&f%5B12%5D=im_field_offre_region%3A65&f%5B13%5D=im_field_offre_region%3A66",
+      "name": "Emploi.ma",
+      "description": "Offres d´Emploi et Recrutement au Maroc | Emploi.ma",
+      "logo": "https://www.emploi.ma/sites/default/themes/africawork3/logo-header-emploi.ma.svg",
+      }
+  </script>
+<footer class="footer">
+    <div class="footer-top">
+        <div class="container">
+            <picture>
+                <a href="/" title="Accueil"><img src="/sites/default/themes/africawork3/logo-footer-emploi.ma.svg" alt="Emploi.ma"></a>
+            </picture>
+
+            <div class="footer-top-links">
+                <nav>
+                    <ul class="menu"><li class="menu-2664 first"><a href="/qui-sommes-nous" title="Qui sommes-nous ?">Qui sommes-nous ?</a></li>
+<li class="menu-2329"><a href="/plan-site" title="Plan du site">Plan du site</a></li>
+<li class="menu-2660"><a href="/questions-frequemment-posees-faq" title="Questions fréquemment posées">FAQ</a></li>
+<li class="menu-2330 last"><a href="/contact">Contact</a></li>
+</ul>                </nav>
+                <ul><a href="https://www.facebook.com/emploi.ma" class="facebook" target="_blank"><img src="/sites/all/themes/africawork3/img/icon/facebook-white.svg" alt="facebook"></a><a href="https://www.linkedin.com/company/emploi-ma/" class="linkedin" target="_blank"><img src="/sites/all/themes/africawork3/img/icon/linkedin-white.svg" alt="linkedin"></a></ul>            </div>
+        </div>
+    </div>
+    <div class="footer-middle">
+        <div class="container">
+            <div class="footer-middle-wrapper">
+                
+<div class="footer-middle-item accordeon mobile-only"><h3 class="accordeon-header">Emploi par métier</h3><ul class="footer-middle-list accordeon-body"><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A1127">Achats Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A29">Commercial, vente Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A30">Gestion, comptabilité, finance Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A31">Informatique, nouvelles technologies Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A1115">Juridique Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A32">Management, direction générale Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A33">Marketing, communication Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A34">Métiers de la santé et du social Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A35">Métiers des services Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A36">Métiers du BTP Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A37">Production, maintenance, qualité Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A39">R&amp;D, gestion de projets Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A38">RH, formation Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A40">Secrétariat, assistanat Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A525">Télémarketing, téléassistance Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A41">Tourisme, hôtellerie, restauration Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_metiers%3A28">Transport, logistique Maroc</a></li></ul></div><div class="footer-middle-item accordeon mobile-only"><h3 class="accordeon-header">Emploi par région</h3><ul class="footer-middle-list accordeon-body"><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A57">Agadir Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A73">Béni Mellal-Khénifra Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A58">Casablanca-Mohammedia Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A74">Dakhla Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A75">Errachidia Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A59">Fès Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A76">Guelmim Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A60">Laâyoune Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A61">Marrakech-Safi Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A62">Meknès Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A63">Oujda Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A64">Rabat-Salé-Kénitra Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A65">Settat Maroc</a></li><li><a href="https://www.emploi.ma/recherche-jobs-maroc/?f[0]=im_field_offre_region%3A66">Tanger-Tétouan-Al Hoceïma Maroc</a></li></ul></div><div class="footer-middle-item accordeon mobile-only"><h3 class="accordeon-header">Index des emplois</h3><ul class="footer-middle-list accordeon-body"><li><span>Métiers :</span><ul class="links-list"><li><a href="/emplois-actifs/metiers">A-B</a></li><li><a href="/emplois-actifs/metiers/2">C</a></li><li><a href="/emplois-actifs/metiers/3">D-E</a></li><li><a href="/emplois-actifs/metiers/4">F-L</a></li><li><a href="/emplois-actifs/metiers/5">M-O</a></li><li><a href="/emplois-actifs/metiers/6">P-R</a></li><li><a href="/emplois-actifs/metiers/7">S-W</a></li></ul></li><li><span>Secteurs d'activité :</span><ul class="links-list"><li><a href="/emplois-actifs/secteurs">A-E</a></li><li><a href="/emplois-actifs/secteurs/2">F</a></li><li><a href="/emplois-actifs/secteurs/3">G-P</a></li><li><a href="/emplois-actifs/secteurs/4">Q-W</a></li></ul></li><li><span>Compétences IT :</span><ul class="links-list"><li><a href="/emplois-actifs/competences-it">1-9</a></li><li><a href="/emplois-actifs/competences-it/2">A-D</a></li><li><a href="/emplois-actifs/competences-it/3">E-L</a></li><li><a href="/emplois-actifs/competences-it/4">M-R</a></li><li><a href="/emplois-actifs/competences-it/5">S-Z</a></li></ul></li><li><a href="/emplois-actifs/villes">Villes</a></li><li><a href="/emplois-actifs/ingenieurs">Ingénieurs</a></li><li><a href="/emplois-actifs">Emplois actifs</a></li></ul><h3 class="accordeon-header">Index des Recrutements</h3><ul class="footer-middle-list accordeon-body"><li><span>Métiers :</span><ul class="links-list"><li><a href="/recrutements-permanents/metiers">A-B</a></li><li><a href="/recrutements-permanents/metiers/2">C</a></li><li><a href="/recrutements-permanents/metiers/3">D-E</a></li><li><a href="/recrutements-permanents/metiers/4">F-L</a></li><li><a href="/recrutements-permanents/metiers/5">M-O</a></li><li><a href="/recrutements-permanents/metiers/6">P-R</a></li><li><a href="/recrutements-permanents/metiers/7">P-R</a></li></ul></li><li><span>Secteurs d'activité :</span><ul class="links-list"><li><a href="/emplois-actifs/secteurs">A-E</a></li><li><a href="/emplois-actifs/secteurs/2">F</a></li><li><a href="/emplois-actifs/secteurs/3">G-P</a></li><li><a href="/emplois-actifs/secteurs/4">Q-W</a></li></ul></li><li><span>Compétences IT :</span><ul class="links-list"><li><a href="/emplois-actifs/competences-it">1-9</a></li><li><a href="/emplois-actifs/competences-it/2">A-D</a></li><li><a href="/emplois-actifs/competences-it/3">E-L</a></li><li><a href="/emplois-actifs/competences-it/4">M-R</a></li><li><a href="/emplois-actifs/competences-it/5">S-Z</a></li></ul></li><li><a href="/recrutements-permanents/ingenieurs">Ingénieurs</a></li><li><a href="/recrutements-permanents/villes">Villes</a></li><li><a href="/recrutements-permanents">Recrutements permanents</a></li></ul></div>
+             </div>
+        </div>
+        <div class="container container-grid">
+            <div class="footer-countries">
+                <h3>Emploi.ma est un site de <a href="https://www.africatalents.com/fr" target="_blank">AFRICATALENTS</a><span>Le service de recrutement en ligne N°1 en Afrique</span></h3>
+                <ul><li><a href="https://www.emploi.ma" target="_blank" rel="external nofollow"><span class="flag flag-maroc flag-1"> </span><span>Emploi</span><span class="textmaroc">Maroc</span></a></li><li><a href="https://www.emploi.ci" target="_blank" rel="external nofollow"><span class="flag flag-coteivoire flag-2"> </span><span>Emploi</span><span class="textcoteivoire">Côte d’Ivoire</span></a></li><li><a href="https://www.emploi.cg" target="_blank" rel="external nofollow"><span class="flag flag-congo flag-3"> </span><span>Emploi</span><span class="textcongo">Congo</span></a></li><li><a href="https://www.emploi.cm" target="_blank" rel="external nofollow"><span class="flag flag-cameroun flag-4"> </span><span>Emploi</span><span class="textcameroun">Cameroun</span></a></li><li><a href="https://www.emploisenegal.com" target="_blank" rel="external nofollow"><span class="flag flag-senegal flag-5"> </span><span>Emploi</span><span class="textsenegal">Sénégal</span></a></li><li><a href="https://www.emploiburkina.com" target="_blank" rel="external nofollow"><span class="flag flag-burkinafaso flag-6"> </span><span>Emploi</span><span class="textburkinafaso">Burkina Faso</span></a></li><li><a href="https://www.emploiguinee.com" target="_blank" rel="external nofollow"><span class="flag flag-guinea flag-7"> </span><span>Emploi</span><span class="textguinea">Guinée</span></a></li><li><a href="https://www.emploi.tg" target="_blank" rel="external nofollow"><span class="flag flag-togo flag-8"> </span><span>Emploi</span><span class="texttogo">Togo</span></a></li><li><a href="https://www.emploi.ga" target="_blank" rel="external nofollow"><span class="flag flag-gabon flag-9"> </span><span>Emploi</span><span class="textgabon">Gabon</span></a></li><li><a href="https://www.emploimauritanie.com" target="_blank" rel="external nofollow"><span class="flag flag-mauritanie flag-10"> </span><span>Emploi</span><span class="textmauritanie">Mauritanie</span></a></li><li><a href="https://www.emploibenin.com" target="_blank" rel="external nofollow"><span class="flag flag-benin flag-11"> </span><span>Emploi</span><span class="textbenin">Bénin</span></a></li><li><a href="https://www.emploimali.com" target="_blank" rel="external nofollow"><span class="flag flag-mali flag-12"> </span><span>Emploi</span><span class="textmali">Mali</span></a></li><li><a href="https://www.emploi.cd" target="_blank" rel="external nofollow"><span class="flag flag-rdc flag-13"> </span><span>Emploi</span><span class="textrdc">Congo RDC</span></a></li><li><a href="https://www.algeriejob.com" target="_blank" rel="external nofollow"><span class="flag flag-algeria flag-14"> </span><span>Emploi</span><span class="textalgeria">Algérie</span></a></li><li><a href="https://www.emploitunisie.com" target="_blank" rel="external nofollow"><span class="flag flag-tunisia flag-15"> </span><span>Emploi</span><span class="texttunisia">Tunisie</span></a></li><li><a href="https://www.nigerjob.net" target="_blank" rel="external nofollow"><span class="flag flag-niger flag-16"> </span><span>Emploi</span><span class="textniger">Niger</span></a></li><li><a href="https://www.emploi.td" target="_blank" rel="external nofollow"><span class="flag flag-chad flag-17"> </span><span>Emploi</span><span class="textchad">Tchad</span></a></li><li><a href="https://www.emploi.bi" target="_blank" rel="external nofollow"><span class="flag flag-burundi flag-18"> </span><span>Emploi</span><span class="textburundi">Burundi</span></a></li><li><a href="https://www.ghanajob.com" target="_blank" rel="external nofollow"><span class="flag flag-ghana flag-19"> </span><span>Emploi</span><span class="textghana">Ghana</span></a></li><li><a href="https://www.nigeriajob.com" target="_blank" rel="external nofollow"><span class="flag flag-nigeria flag-20"> </span><span>Emploi</span><span class="textnigeria">Nigeria</span></a></li><li><a href="https://www.3amal.com" target="_blank" rel="external nofollow"><span class="flag flag-egypt flag-21"> </span><span>Emploi</span><span class="textegypt">Egypte</span></a></li><li><a href="https://www.ethiopiawork.com" target="_blank" rel="external nofollow"><span class="flag flag-ethiopia flag-22"> </span><span>Emploi</span><span class="textethiopia">Ethiopie</span></a></li><li><a href="https://www.kenyajob.com" target="_blank" rel="external nofollow"><span class="flag flag-kenya flag-23"> </span><span>Emploi</span><span class="textkenya">Kenya</span></a></li><li><a href="https://www.ugandajob.com" target="_blank" rel="external nofollow"><span class="flag flag-uganda flag-24"> </span><span>Emploi</span><span class="textuganda">Ouganda</span></a></li><li><a href="https://www.rwandajob.com" target="_blank" rel="external nofollow"><span class="flag flag-rwanda flag-25"> </span><span>Emploi</span><span class="textrwanda">Rwanda</span></a></li><li><a href="https://www.tanzajob.com" target="_blank" rel="external nofollow"><span class="flag flag-tanzania flag-26"> </span><span>Emploi</span><span class="texttanzania">Tanzanie</span></a></li><li><a href="https://www.sudancareers.com" target="_blank" rel="external nofollow"><span class="flag flag-sudan flag-27"> </span><span>Emploi</span><span class="textsudan">Soudan</span></a></li><li><a href="https://www.botswajob.com" target="_blank" rel="external nofollow"><span class="flag flag-botswana flag-28"> </span><span>Emploi</span><span class="textbotswana">Botswana</span></a></li><li><a href="https://www.malawijob.com" target="_blank" rel="external nofollow"><span class="flag flag-malawi flag-29"> </span><span>Emploi</span><span class="textmalawi">Malawi</span></a></li><li><a href="https://www.namijob.com" target="_blank" rel="external nofollow"><span class="flag flag-namibia flag-30"> </span><span>Emploi</span><span class="textnamibia">Namibie</span></a></li><li><a href="https://www.zambiajob.com" target="_blank" rel="external nofollow"><span class="flag flag-zambia flag-31"> </span><span>Emploi</span><span class="textzambia">Zambie</span></a></li><li><a href="https://www.zimbajob.com" target="_blank" rel="external nofollow"><span class="flag flag-zimbabwe flag-32"> </span><span>Emploi</span><span class="textzimbabwe">Zimbabwe</span></a></li><li><a href="https://www.liberiawork.com" target="_blank" rel="external nofollow"><span class="flag flag-liberia flag-33"> </span><span>Emploi</span><span class="textliberia">Libéria</span></a></li><li><a href="https://www.sierraleonejob.com" target="_blank" rel="external nofollow"><span class="flag flag-sierraleone flag-34"> </span><span>Emploi</span><span class="textsierraleone">Sierra Leone</span></a></li><li><a href="https://www.zajob.com" target="_blank" rel="external nofollow"><span class="flag flag-southafrica flag-35"> </span><span>Emploi</span><span class="textsouthafrica">Afrique du Sud</span></a></li><li><a href="https://www.southsudanjob.com" target="_blank" rel="external nofollow"><span class="flag flag-southsudan flag-36"> </span><span>Emploi</span><span class="textsouthsudan">Soudan du Sud</span></a></li><li><a href="https://www.emploi.cf" target="_blank" rel="external nofollow"><span class="flag flag-centralafrican flag-37"> </span><span>Emploi</span><span class="textcentralafrican">Centrafrique</span></a></li></ul>            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <ul class="menu"><li class="menu-2663 first"><a href="/conditions-generales-utilisation" title="Conditions Générales d'Utilisation">Conditions Générales d'Utilisation</a></li>
+<li class="menu-2662"><a href="/conditions-generales-vente-utilisation" title="Conditions Générales de Vente et d´Utilisation">Conditions Générales de Vente et d'Utilisation</a></li>
+<li class="menu-2661"><a href="/mentions-legales" title="Mentions légales">Mentions légales</a></li>
+<li class="menu-2665 last"><a href="/propriete-intellectuelle" title="Propriété Intellectuelle">Propriété Intellectuelle</a></li>
+</ul>            Copyright ©2026 Africatalents - Tous droits réservés        </div>
+    </div>
+</footer>
+<button id="scrollTop" type="button" class="icon scroll-to-top"></button>
+  <div id="cookie-consent" class="cookie-consent container" style="display: block;">
+          <div class="cookie-consent-content">
+            <a class="close-cookie-consent">X</a>
+            <p>Nous utilisons des cookies pour vous offrir la meilleure expérience utilisateur possible. En continuant à utiliser notre site, vous acceptez leur utilisation. <a class="cookie-consent-link" href="/conditions-generales-utilisation" target="_blank">En savoir plus</a></p>
+          </div>
+        </div><div class="footer-mobile">
+      <ul>
+              <li><a href="/" class="footer-mobile-home"><span class="icon mtab-home"></span>Accueil</a></li>
+              <li><a href="/recherche-jobs-maroc" class="footer-mobile-search"><span class="icon mtab-search"></span>Recherche</a></li>
+              <li><a href="/inscription/candidat" class="footer-mobile-candidate"><span class="icon candidat"></span>Candidat</a></li>
+              <li><a href="/inscription/recruteur" class="footer-mobile-recruteur"><span class="icon recruteur"></span>Recruteur</a></li>
+        </ul>
+  </div>
+
+<div id="mobile-data" style="display: none" data-status="nc" data-id="0"></div>
+    <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;5aac98813af44d29836d42c2f0ec16d9&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+</body></html>
