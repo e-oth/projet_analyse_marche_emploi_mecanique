@@ -14,7 +14,7 @@ def main():
 
     print("\n Étape 3 : Extraction Emploi.ma ")
 
-    input("Vérifie que 'outerhtml.txt' est à jour (page Emploi.ma sauvegardée), puis appuie sur Entrée")
+    input("Vérification que 'outerhtml.txt' est à jour (page Emploi.ma sauvegardée). Appuyer sur Entrée")
     scraper_emploi()
 
     print("\n Étape 4 : Fusion des 3 sources")
@@ -24,7 +24,7 @@ def main():
     df = nettoyer_donnees(df)
     df.to_csv("ws_merged.csv", index=False, encoding="utf-8-sig")
 
-    print("\n Étape 6 : Export vers SQLite ===")
+    print("\n Étape 6 : Export vers SQLite")
     exporter_sql(df, "marche_emploi_mecanique.db")
 
     print(f"\nTerminé. {len(df)} offres au total dans la base finale.")

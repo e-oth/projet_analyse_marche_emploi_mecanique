@@ -1,49 +1,63 @@
 import pandas as pd
 import re
 
+# Partie fusion
 def fusionner_csvs():
     df1 = pd.read_csv("./offres_rekrute_mecanique.csv", encoding="utf-8-sig", sep=",", engine='python', on_bad_lines='skip')
     df2 = pd.read_csv("./offres_emploima.csv", encoding="utf-8-sig", sep=",", engine='python', on_bad_lines='skip')
     df3 = pd.read_csv("./offres_dreamjob_mecanique.csv", encoding="utf-8-sig", sep=",", engine='python', on_bad_lines='skip')
 
-    df1.columns = df1.columns.str.strip()
-    df2.columns = df2.columns.str.strip()
-    df3.columns = df3.columns.str.strip()
+    df_bis = pd.concat([df1, df2, df3], ignore_index=True)
 
-    ordre_logique = ["Titre du poste","Entreprise","Ville", "Secteur d'activité", "Contrat proposé", "Niveau d'étude",	
-                    "Expérience",	"Compétences techniques", "Langues", "Soft skills", "Lien de l'offre" 	]
-
-    toutes_les_colonnes = list(set(df1.columns) | set(df2.columns) | set(df3.columns))
-    for col in toutes_les_colonnes:
-        if col not in ordre_logique:
-            ordre_logique.append(col)
-
-    df1_aligne = df1.reindex(columns=ordre_logique)
-    df2_aligne = df2.reindex(columns=ordre_logique)
-    df3_aligne = df3.reindex(columns=ordre_logique)
-
-    df_bis = pd.concat([df1_aligne, df2_aligne, df3_aligne], ignore_index=True)
-
-    df_bis = df_bis.astype(object)
+    df_bis = df_bis.astype(object)                   # Conversion des colonnes au type objet afin de faciliter le traitement
     df_bis.fillna("Non spécifié", inplace=True)
-
+    print("Après fusion :", len(df_bis))
     return df_bis
 
-
-
+# Partie nettoyage et uniformisation
 def nettoyer_donnees(df_bis):
     df_bis.drop_duplicates(subset=["Titre du poste", "Entreprise"], keep="first", inplace=True)
+    print("Après suppression des doublons :", len(df_bis))
 
+    # Uniformisation de l ecriture du niveau d etude
     niveau = df_bis["Niveau d'étude"].str.extract(r'(Bac\s*\+\s*\d+)', expand=False)
     df_bis["Niveau d'étude"] = niveau.fillna(df_bis["Niveau d'étude"])
+    df_bis["Niveau d'étude"] = (df_bis["Niveau d'étude"].str.strip()
+                                                        .str.replace(r"\s*\+\s*", "+", regex=True)
+                                                        .str.title())
 
+    # Suppression des offres non pertinentes
     df_bis = df_bis[~df_bis["Titre du poste"].str.lower().str.contains(
-        "téléconseiller|télévendeur|chargé de clientèle|service client|recouvrement", na=False)]
+        "téléconseiller|télévendeur|chargé de clientèle|maroquinerie|recouvrement|ambulancier|operateur de câblage|serivce client \
+        ressources humaines|chargé de recrutement|chargé rh|assistant rh|rh"
+        ,na=False)]
 
-    df_bis = df_bis.replace("Autres", "Non spécifié")
+    df_bis = df_bis.replace(["Autres","Non Spécifié"], "Non spécifié")
+
+    # Correction de faux positifs
+    liens_faux_positifs_anapec = [
+    "https://www.dreamjob.ma/emploi/stellantis-recrute-operateurs/",
+    "https://www.dreamjob.ma/emploi/grande-campagne-de-recrutement-calliope-plusieurs-postes-a-saisir-partout-au-maroc/",
+    "https://www.dreamjob.ma/emploi/lear-morocco-recrute-4-postes-strategiques-a-pourvoir-a-tanger-et-meknes/",
+    "https://www.dreamjob.ma/emploi/continental-est-a-la-recherche-de-5-profils/",
+    "https://www.dreamjob.ma/emploi/sebn-ma-recrute-plusieurs-profils-2023/" ]
+    df_bis.loc[df_bis["Lien de l'offre"].isin(liens_faux_positifs_anapec),
+                      "Contrat proposé"] = "Non spécifié"
+     # Uniformisation des langues
     df_bis["Langues"] = (df_bis["Langues"].str.replace("English", "Anglais", regex=False)
                                         .str.replace("Francais", "Français", regex=False))
-    df_bis["Ville"] = df_bis["Ville"].replace(["Maroc", "Tout le maroc"], "Non spécifié")
+    
+    # Uniformisation des soft skills
+    df_bis["Soft skills"] = (df_bis["Soft skills"].str.replace("Communiquer", "Communication")
+                                                  .str.replace("Organisé", "Organisation")
+                                                  .str.replace("Autonome", "Autonomie")
+                                                  .str.replace("Créatif", "Créativité")
+                                                  .str.replace("Travailler en équipe", "Travail en équipe"))
+    
+    df_bis["Contrat proposé"] = df_bis["Contrat proposé"].str.replace("Autre", "Non spécifié")
+
+    df_bis["Secteur d'activité"] = df_bis["Secteur d'activité"].replace(["Autres services", "Autres Industries"], "Non spécifié")
+
     df_bis["Ville"] = df_bis["Ville"].str.lower()
     df_bis["Ville"] = df_bis["Ville"].str.capitalize()
 
@@ -63,10 +77,14 @@ def nettoyer_donnees(df_bis):
         "Parc technopolis rabat": "Salé",
         "Taliouine- askaoune": "Taliouine",
         "Taliouine - askaoun": "Taliouine",
-        "Chtouka ait baha - agadir": "Agadir"
+        "Chtouka ait baha - agadir": "Agadir",
+        "Temara" : "Témara",
+        "Maroc": "Non spécifié",
+        "Tout le maroc": "Non spécifié"
         }
     df_bis["Ville"] = df_bis["Ville"].replace(correction_villes)
-
+    
+    # Uniformisation des informations relatives à l'expérience
     def nettoyer_texte_experience(exp):
         if "non spécifié" in str(exp).lower() or pd.isna(exp):
             return "Non spécifié"
@@ -89,8 +107,9 @@ def nettoyer_donnees(df_bis):
         return "Non spécifié"
 
     df_bis["Expérience"] = df_bis["Expérience"].apply(nettoyer_texte_experience)
+
     nb_non_specifies = df_bis.eq("Non spécifié").sum(axis=1)
-    # Affichage de la répartition
+    # Affichage de la répartition de "Non specifie"
     print(nb_non_specifies.value_counts().sort_index())
 
     def experience_max(exp):
@@ -98,12 +117,35 @@ def nettoyer_donnees(df_bis):
         if not nombres:
             return 0
         return max(map(int, nombres))
+    
+    # Calcul de la moyenne pour l'application
+    def experience_moyenne(exp):
+        nombres = re.findall(r"\d+", str(exp))
+        if len(nombres) == 2:
+            return (int(nombres[0]) + int(nombres[1])) / 2
+        elif len(nombres) == 1:
+            return int(nombres[0])
+        return None
 
+    # Filtrage par pertinence et credibilite 
     df_bis = df_bis[nb_non_specifies <= 3]
     df_bis = df_bis[df_bis["Expérience"].apply(experience_max) <= 10]
+    df_bis["Expérience numérique"] = df_bis["Expérience"].apply(experience_moyenne) # Colonne fictive pour l'application
 
     # Nombre d'offres restantes
     print("Nombre d'offres :", len(df_bis))
 
     return df_bis
+
+if __name__ == "__main__":
+    from export_sql import exporter_sql
+
+    df = fusionner_csvs()
+    df = nettoyer_donnees(df)
+    
+    df.to_csv("ws_merged.csv", index=False, encoding="utf-8-sig")
+    print("Fichier CSV mis à jour.")
+
+    exporter_sql(df, "marche_emploi_mecanique.db")
+    print("Base SQLite mise à jour.")
 
