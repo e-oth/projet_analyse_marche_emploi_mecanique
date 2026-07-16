@@ -60,6 +60,18 @@ def afficher_indicateurs(df):
             f"{moyenne:.1f} ans" if langue=="Français"
             else f"{moyenne:.1f} years"
         )
+
+def afficher_selection(langue, filtre_fr, filtre_en, selection, nombre_offres):
+    if langue == "Français":
+        st.info(
+            f"{filtre_fr} sélectionné(e) : {selection}\n\n"
+            f"Nombre d'offres : {nombre_offres}"
+        )
+    else:
+        st.info(
+            f"Selected {filtre_en}: {selection}\n\n"
+            f"Number of job offers: {nombre_offres}"
+        )
                 
 with sqlite3.connect("marche_emploi_mecanique.db") as connection:
     df = pd.read_sql_query(f"SELECT * FROM {table}", connection)
@@ -183,7 +195,11 @@ for colonne, (valeur, valeur_par_defaut) in filtres.items():
 
 st.caption("Les valeurs « Non spécifié » sont exclues des visualisations. "
            "Les répartitions et pourcentages sont calculés uniquement à partir "
-           "des offres pour lesquelles l'information est disponible.")
+           "des offres pour lesquelles l'information est disponible."
+           if langue =="Français"
+           else "Entries with 'Not specified' values are excluded from the visualizations. "
+                "Distributions and percentages are calculated only from job offers "
+                "for which the corresponding information is available.")
 
 tab1, tab2, tab3, tab4 = st.tabs(["Aperçu du marché",
                                   "Analyse sectorielle",
@@ -207,22 +223,24 @@ with tab1:
 
     # Villes
     with c1:
-        st.subheader("Top 10 des villes")
+        st.subheader("Top 10 des villes" if langue=="Français" else "Top 10 cities")
 
         if len(df) == 0:
-            st.info("Aucune ville disponible pour cette sélection.")
+            st.info("Aucune ville disponible pour cette sélection." 
+                    if langue=="Français" 
+                    else "No cities available for the selected filters.")
 
         elif filtres[VILLE][0] != TOUTES:
-            st.info(f"Ville sélectionnée : **{filtres[VILLE][0]}**\n\n"
-                    f"Nombre d'offres : **{len(df)}**"
-            )
+            afficher_selection(langue,"Ville","city",filtres[VILLE][0],len(df))
 
         else:
             villes = (df[df[VILLE] != NON_SPEC][VILLE]
                       .value_counts().head(10).sort_values())
 
             if villes.empty:
-                st.info("Aucune ville disponible pour cette sélection.")
+                st.info("Aucune ville disponible pour cette sélection." 
+                        if langue=="Français" 
+                        else "No cities available for the selected filters.")
             else:
                 fig = px.bar(
                     x=villes.values,
@@ -239,16 +257,21 @@ with tab1:
 
     # Contrats
     with c2:
-        st.subheader("Répartition des contrats")
+        st.subheader("Répartition des contrats" if langue=="Français" 
+                    else "Contract Distribution")
         if len(df) == 0:
-            st.info("Aucun contrat disponible pour cette sélection.")
+            st.info("Aucun contrat disponible pour cette sélection." 
+                    if langue=="Français" 
+                    else "No contracts available for the selected filters.")
 
         elif filtres[CONTRAT][0] != TOUS:
-            st.info(f"Contrat sélectionné : **{filtres[CONTRAT][0]}**\n\nNombre d'offres : **{len(df)}**")
+            afficher_selection(langue,"Contrat","contract",filtres[CONTRAT][0],len(df))
         else:
             contrats = df[df[CONTRAT] != NON_SPEC][CONTRAT].value_counts()
             if contrats.empty:
-                st.info("Aucun contrat disponible pour cette sélection.")
+                st.info("Aucun contrat disponible pour cette sélection."
+                        if langue=="Français" 
+                        else "No contracts available for the selected filters.")
             else:
                 fig = px.pie(
                     values=contrats.values,
@@ -264,11 +287,15 @@ with tab1:
 
     # Niveau d'étude
     with c3:
-        st.subheader("Répartition du niveau d'étude")
+        st.subheader("Répartition du niveau d'étude"
+                     if langue=="Français"
+                     else "Education level distribution")
         if filtres[ETUDES][0] == TOUS:
             etudes = df[df[ETUDES] != NON_SPEC][ETUDES].value_counts()
             if etudes.empty or len(df) == 0:
-                st.info("Aucun niveau d'étude disponible pour cette sélection.")
+                st.info("Aucun niveau d'étude disponible pour cette sélection."
+                        if langue=="Français"
+                        else "No education level available for the selected filters.")
             else:
                 fig = px.pie(
                     values=etudes.values,
@@ -280,14 +307,145 @@ with tab1:
 
                 st.plotly_chart(fig, use_container_width=True, key="niveau")
         else:
-            st.info(f'Niveau d\'étude sélectionné : **{filtres[ETUDES][0]}**\n\n'
-                    f'Nombre d\'offres : **{len(df)}**')
+            afficher_selection(langue,"Niveau d'étude","education level",filtres[ETUDES][0], len(df))
 
     # Profil
     with c4:
-        st.subheader("Profils les plus recherchés")
+        st.subheader("Expérience moyenne requise selon le niveau d'étude"
+                     if langue=="Français"
+                     else "Average Required Experience by Education Level")
+
+        data = (
+            df[
+                (df[ETUDES] != NON_SPEC) &
+                (df[EXP_NUM].notna())
+            ]
+            .groupby(ETUDES)[EXP_NUM]
+            .mean()
+            .sort_index()
+            .reset_index()
+        )
+
+        if data.empty:
+            st.info("Aucune donnée disponible."
+                    if langue=="Français"
+                    else "No data available.")
+        else:
+            palette_couleurs = {
+                "Bac+2": "#90caf9",  # Bleu clair (à adapter selon tes codes exacts)
+                "Bac+3": "#ef9a9a",  # Rose
+                "Bac+4": "#f44336",  # Rouge
+                "Bac+5": "#0066cc"   # Bleu foncé
+            }
+
+            # 2. On ajoute color et color_discrete_map dans px.bar
+            fig = px.bar(
+                data,
+                x=ETUDES,
+                y=EXP_NUM,
+                text=EXP_NUM,
+                color=ETUDES,                           # Indique à Plotly de colorer par catégorie
+                color_discrete_map=palette_couleurs,    # Applique tes couleurs personnalisées
+                labels={
+                    ETUDES: "Niveau d'étude",
+                    EXP_NUM: "Expérience moyenne (ans)"
+                }
+            )
+
+            fig.update_traces(texttemplate="%{text:.1f}", textposition="outside")
+
+            fig.update_traces(texttemplate="%{text:.1f}", textposition="outside")
+            fig.update_layout(height=450)
+            fig.update_traces(width=0.3)
+
+            st.plotly_chart(fig, use_container_width=True)
+            
+
+with tab2:
+    st.header("Vue d'ensemble du marché"
+              if langue=="Français"
+              else "Market overview")
+    afficher_indicateurs(df)
+
+    c1, c2 = st.columns(2)
+
+    # Secteurs
+    with c1:
+        st.subheader("Top 10 des secteurs"
+                     if langue=="Français"
+                     else "Top 10 sectors")
+        if len(df) == 0:
+            st.info("Aucun secteur disponible pour cette sélection."
+                    if langue=="Français"
+                    else "No sectors available for the selected filters.")
+
+        elif filtres[SECTEUR][0] != TOUS:
+            afficher_selection(langue,"Secteur d'activité","sector",filtres[SECTEUR][0],len(df))
+            
+        else:
+            secteurs = (df[df[SECTEUR] != NON_SPEC][SECTEUR]
+                        .dropna().str.split(",").explode().str.strip().value_counts()
+                        .head(10).sort_values())
+            if secteurs.empty or len(df) == 0:
+                st.info("Aucun secteur disponible pour cette sélection."
+                        if langue=="Français"
+                        else "No sectors available for the selected filters.")
+            else:
+                fig = px.bar(
+                    x=secteurs.values,
+                    y=secteurs.index,
+                    orientation="h",
+                    text=secteurs.values,
+                    labels={"x": "Nombre d'offres", "y": ""}
+                )
+                fig.update_traces(textangle=0)
+                fig.update_layout(height=400)
+
+                st.plotly_chart(fig, use_container_width=True, key = "secteur")
+        
+            
+
+    # Entreprises
+    with c2:
+        st.subheader("Top 15 des entreprises"
+                     if langue=="Français"
+                     else "Top 15 companies")
+        if len(df) == 0:
+            st.info("Aucune entreprise disponible pour cette sélection."
+                    if langue=="Français"
+                    else "No companies available for the selected filters.")
+
+        elif filtres[ENTREPRISE][0] != TOUTES:
+            afficher_selection(langue,"Entreprise","company",filtres[ENTREPRISE][0],len(df))
+        else:
+            entreprises = df[~df[ENTREPRISE].isin([NON_SPEC, "Confidentiel"])][ENTREPRISE].value_counts().head(15).sort_values()
+            if entreprises.empty or len(df) == 0:
+                st.info("Aucune entreprise disponible pour cette sélection."
+                        if langue=="Français"
+                    else "No companies available for the selected filters.")
+            else:
+                fig = px.bar(
+                    x=entreprises.values,
+                    y=entreprises.index,
+                    orientation="h",
+                    text=entreprises.values,
+                    labels={"x": "Nombre d'offres", "y": ""}
+                )
+                fig.update_traces(textangle=0)
+                fig.update_layout(height=400)
+
+                st.plotly_chart(fig, use_container_width=True, key = "entreprise")
+
+    left, center, right = st.columns([1,2,1])
+
+    with center: 
+        st.subheader("Profils les plus recherchés"
+                     if langue=="Français"
+                    else "Most In-Demand Job Profiles")
         if len(df) ==0:
-            st.info("Aucun profil disponible pour cette sélection.")
+            st.info("Aucun profil disponible pour cette sélection."
+                    if langue=="Français"
+                    else "No profiles available for the selected filters.")
         else:
             mots_cles = ["ingénieur","technicien","responsable","chef","dessinateur",
                         "projeteur","conducteur","coordinateur","superviseur",
@@ -308,90 +466,36 @@ with tab1:
             fig.update_layout(height=400)
 
             st.plotly_chart(fig, use_container_width=True, key = "experience")
-
-with tab2:
-    st.header("Vue d'ensemble du marché")
-    afficher_indicateurs(df)
-
-    c1, c2 = st.columns(2)
-
-    # Secteurs
-    with c1:
-        st.subheader("Top 10 des secteurs")
-        if len(df) == 0:
-            st.info("Aucun secteur disponible pour cette sélection.")
-
-        elif filtres[SECTEUR][0] != TOUS:
-            st.info(f'Secteur d\'activité sélectionné : **{filtres[SECTEUR][0]}**\n\n'
-                    f'Nombre d\'offres : **{len(df)}**')
-            
-        else:
-            secteurs = (df[df[SECTEUR] != NON_SPEC][SECTEUR]
-                        .dropna().str.split(",").explode().str.strip().value_counts()
-                        .head(10).sort_values())
-            if secteurs.empty or len(df) == 0:
-                st.info("Aucun secteur disponible pour cette sélection.")
-            else:
-                fig = px.bar(
-                    x=secteurs.values,
-                    y=secteurs.index,
-                    orientation="h",
-                    text=secteurs.values,
-                    labels={"x": "Nombre d'offres", "y": ""}
-                )
-                fig.update_traces(textangle=0)
-                fig.update_layout(height=400)
-
-                st.plotly_chart(fig, use_container_width=True, key = "secteur")
-        
-            
-
-    # Entreprises
-    with c2:
-        st.subheader("Top 15 des entreprises")
-        if len(df) == 0:
-            st.info("Aucune entreprise disponible pour cette sélection.")
-
-        elif filtres[ENTREPRISE][0] != TOUTES:
-            st.info(f"Entreprise sélectionnée : **{filtres[ENTREPRISE][0]}**\n\nNombre d'offres : **{len(df)}**")
-        else:
-            entreprises = df[~df[ENTREPRISE].isin([NON_SPEC, "Confidentiel"])][ENTREPRISE].value_counts().head(15).sort_values()
-            if entreprises.empty or len(df) == 0:
-                st.info("Aucune entreprise disponible pour cette sélection.")
-            else:
-                fig = px.bar(
-                    x=entreprises.values,
-                    y=entreprises.index,
-                    orientation="h",
-                    text=entreprises.values,
-                    labels={"x": "Nombre d'offres", "y": ""}
-                )
-                fig.update_traces(textangle=0)
-                fig.update_layout(height=400)
-
-                st.plotly_chart(fig, use_container_width=True, key = "entreprise")
         
 with tab3:
 
-    st.header("Vue d'ensemble du marché")
+    st.header("Vue d'ensemble du marché"
+              if langue=="Français"
+              else "Market overview")
     afficher_indicateurs(df)
 
     c1, c2 = st.columns(2)
 
     # Competences
     with c1:
-        st.subheader("Top 15 des compétences techniques")
+        st.subheader("Top 15 des compétences techniques"
+                     if langue=="Français"
+                     else "Top 15 technical skills")
         if len(df) == 0:
-                    st.info("Aucune compétence disponible pour cette sélection.")
+                    st.info("Aucune compétence disponible pour cette sélection."
+                            if langue=="Français"
+                            else "No skills available for the selected filters.")
 
         elif filtres[TECH][0] != TOUTES:
-            st.info(f"Compétences techniques sélectionnées: **{filtres[TECH][0]}**\n\nNombre d'offres : **{len(df)}**")
+            afficher_selection(langue,"Compétence technique","technical skill",filtres[TECH][0],len(df))
         else:
             competences = (df[df[TECH] != NON_SPEC][TECH]
                         .dropna().str.split(",").explode().str.strip().value_counts()
                         .head(15).sort_values())
             if competences.empty or len(df) == 0:
-                st.info("Aucune compétence disponible pour cette sélection.")
+                st.info("Aucune compétence disponible pour cette sélection."
+                        if langue=="Français"
+                        else "No skills available for the selected filters.")
             else:
                 fig = px.bar(
                     x=competences.values,
@@ -407,18 +511,24 @@ with tab3:
         
     
     with c2:
-        st.subheader("Top 15 des soft skills")
+        st.subheader("Top 15 des soft skills"
+                     if langue=="Français"
+                     else "Top 15 soft skills")
         if len(df) == 0:
-                    st.info("Aucun soft skill disponible pour cette sélection.")
+                    st.info("Aucun soft skill disponible pour cette sélection."
+                            if langue=="Français"
+                        else "No soft skills available for the selected filters.")
 
         elif filtres["Soft skills"][0] != TOUS:
-            st.info(f"Soft skills sélectionnés: **{filtres['Soft skills'][0]}**\n\nNombre d'offres : **{len(df)}**")
+            afficher_selection(langue,"Soft skill","soft skill",filtres["Soft skill"][0],len(df))
         else:
             skills = (df[df["Soft skills"] != NON_SPEC]["Soft skills"]
                         .dropna().str.split(",").explode().str.strip().value_counts()
                         .head(15).sort_values())
             if skills.empty or len(df) == 0:
-                st.info("Aucun soft skill disponible pour cette sélection.")
+                st.info("Aucun soft skill disponible pour cette sélection."
+                        if langue=="Français"
+                        else "No soft skills available for the selected filters.")
             else:
                 fig = px.bar(
                     x=skills.values,
@@ -435,17 +545,23 @@ with tab3:
     left, center, right = st.columns([1,2,1])
 
     with center:
-        st.subheader("Langues")
+        st.subheader("Langues"
+                     if langue=="Français"
+                     else "Languages")
 
         if len(df) == 0:
-            st.info("Aucune langue disponible pour cette sélection.")
+            st.info("Aucune langue disponible pour cette sélection."
+                    if langue=="Français"
+                    else "No languages available for the selected filters.")
 
         elif filtres[LANGUES][0] != TOUTES:
-            st.info(f"Langue sélectionnée : **{filtres[LANGUES][0]}**\n\nNombre d'offres : **{len(df)}**")
+            afficher_selection(langue,"Langue","language",filtres[LANGUES][0],len(df))
         else:
             langues = df[df[LANGUES] != NON_SPEC][LANGUES].dropna().str.split(",").explode().str.strip().value_counts()
             if langues.empty:
-                st.info("Aucune langue disponible pour cette sélection.")
+                st.info("Aucune langue disponible pour cette sélection."
+                        if langue=="Français"
+                        else "No languages available for the selected filters.")
             else:
                 fig = px.pie(
                     values=langues.values,
@@ -460,7 +576,9 @@ with tab3:
 
 
 with tab4:
-    st.header("Répartition géographique des offres" if langue == "Français" else "Geographic distribution of job offers")
+    st.header("Répartition géographique des offres" 
+              if langue == "Français" 
+              else "Geographic distribution of job offers")
 
     # Nombre d'offres par ville
     carte = (
@@ -484,7 +602,9 @@ with tab4:
     carte = carte.dropna(subset=["Latitude", "Longitude"])
 
     if carte.empty:
-        st.info("Aucune donnée géographique disponible pour cette sélection.")
+        st.info("Aucune donnée géographique disponible pour cette sélection."
+                if langue=="Français"
+                else "No geographic data available for the selected filters.")
 
     else:
         # Réduit l'écart entre les grandes et petites villes
@@ -498,8 +618,8 @@ with tab4:
             hover_name=VILLE,
             hover_data={"Offres": True},
             radius=65,
-            zoom=5.5,
-            center={"lat": 31.79, "lon": -7.09},
+            zoom=6.5,
+            center={"lat": 33.7, "lon": -6.9},
             map_style="carto-darkmatter",
             color_continuous_scale="Plasma",
             height=700,

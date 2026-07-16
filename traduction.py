@@ -32,8 +32,6 @@ with sqlite3.connect("marche_emploi_mecanique.db") as connection:
         "Agroalimentaire": "Food Industry",
         "Énergie": "Energy",
         "Aéronautique": "Aeronautics",
-        "Btp": "Construction",
-        "BTP": "Construction",
         "Ferroviaire": "Railway",
         "Chimie": "Chemicals",
         "Pharmaceutique": "Pharmaceutical Industry",
@@ -51,7 +49,6 @@ with sqlite3.connect("marche_emploi_mecanique.db") as connection:
         "Electro-mécanique": "Electromechanical Engineering",
         "Minier": "Mining",
         "Mécanique": "Mechanical Engineering",
-        "Mines": "Mining",
         "Extraction": "Extraction",
         "Sidérurgie": "Steel Industry",
         "Centre d'appels": "Call Center",
@@ -98,7 +95,27 @@ with sqlite3.connect("marche_emploi_mecanique.db") as connection:
     }
 
     for fr, en in traduction_soft.items():
-        df_en["Soft skills"] = (["Soft skills"].str.replace(fr, en, regex=False))
+        df_en["Soft skills"] = (df_en["Soft skills"]
+                                      .str.replace(fr, en, regex=False))
+        
+    traduction_compet = {
+        "Modélisation" : "Modeling",
+        "Automatisme"  : "Automation"
+    }
+
+    for fr, en in traduction_compet.items():
+        df_en["Compétences techniques"] = (df_en["Compétences techniques"]
+                                      .str.replace(fr, en, regex=False))
+        
+    traduction_experience = {
+        "à" : "to",
+        "ans" : "years",
+        "an" : "year"
+    }
+    for fr, en in traduction_experience.items():
+        df_en["Expérience"] = (df_en["Expérience"]
+                                      .str.replace(fr, en, regex=False))
+
 
     df_en = df_en.rename(columns={
         "Titre du poste": "Job title",

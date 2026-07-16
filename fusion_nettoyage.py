@@ -43,9 +43,27 @@ def nettoyer_donnees(df_bis):
     "https://www.dreamjob.ma/emploi/sebn-ma-recrute-plusieurs-profils-2023/" ]
     df_bis.loc[df_bis["Lien de l'offre"].isin(liens_faux_positifs_anapec),
                       "Contrat proposé"] = "Non spécifié"
-     # Uniformisation des langues
+    
+    faux_positifs_etudes = {
+        "https://www.dreamjob.ma/emploi/super-auto-group-lance-une-campagne-de-recrutement-pour-divers-postes/": "Bac+5",
+        "https://www.dreamjob.ma/emploi/dxc-cdg-ouvre-11-postes-a-rabat/": "Bac+5",
+        "https://www.dreamjob.ma/emploi/dxc-cdg-lance-une-campagne-de-recrutement-17-postes-ouverts/": "Bac+5",
+        "https://www.dreamjob.ma/emploi/centrale-automobile-cherifienne-cac-lance-une-campagne-de-recrutement-pour-divers-postes/": "Bac+5",
+        "https://www.dreamjob.ma/emploi/dxc-technology-morocco-lance-une-campagne-de-recrutement-pour-divers-postes/": "Bac+5",
+        "https://www.dreamjob.ma/emploi/aiguebelle-lance-une-campagne-de-recrutement-pour-divers-postes/": "Bac+5",
+        "https://www.dreamjob.ma/emploi/somacos-recrute-a-meknes-plus-de-10-profils-en-cdi-et-cdd/": "Bac+2",
+        "https://www.dreamjob.ma/emploi/8-postes-ouverts-chez-somacos-a-meknes/": "Bac+2"
+    }
+    df_bis["Niveau d'étude"] = df_bis["Lien de l'offre"].map(faux_positifs_etudes).fillna(df_bis["Niveau d'étude"])
+
+    # Uniformisation des langues
     df_bis["Langues"] = (df_bis["Langues"].str.replace("English", "Anglais", regex=False)
                                         .str.replace("Francais", "Français", regex=False))
+    
+    # Uniformisation des secteurs
+    df_bis["Secteur d'activité"] = (df_bis["Secteur d'activité"].str.replace("BTP", "Construction", regex=False)
+                                                                .str.replace("Btp", "Construction")
+                                                                .str.replace("Mines", "Minier", regex=False))
     
     # Uniformisation des soft skills
     df_bis["Soft skills"] = (df_bis["Soft skills"].str.replace("Communiquer", "Communication")
@@ -56,7 +74,8 @@ def nettoyer_donnees(df_bis):
     
     df_bis["Contrat proposé"] = df_bis["Contrat proposé"].str.replace("Autre", "Non spécifié")
 
-    df_bis["Secteur d'activité"] = df_bis["Secteur d'activité"].replace(["Autres services", "Autres Industries"], "Non spécifié")
+    df_bis["Secteur d'activité"] = df_bis["Secteur d'activité"].replace(
+                                   ["Autres services", "Autres Industries", "Indifférent"], "Non spécifié")
 
     df_bis["Ville"] = df_bis["Ville"].str.lower()
     df_bis["Ville"] = df_bis["Ville"].str.capitalize()
@@ -97,12 +116,18 @@ def nettoyer_donnees(df_bis):
         if "débutant" in texte:
             return "2 ans"
 
-        nombres = re.findall(r"\d+", texte)
+        nombres = [int(n) for n in re.findall(r"\d+", texte)]
 
         if len(nombres) == 2:
             return f"{nombres[0]} à {nombres[1]} ans"
+
         elif len(nombres) == 1:
-            return f"{nombres[0]} ans"
+            if nombres[0] == 1:
+                return "1 an"
+            elif nombres[0] == 0:
+                return "0 an"
+            else:
+                return f"{nombres[0]} ans"
 
         return "Non spécifié"
 
