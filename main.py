@@ -1,8 +1,9 @@
 from scraper_dreamjob import scraper_dreamjob
 from scraper_rekrute import scraper_rekrute
 from scraper_emploi import scraper_emploi
-from fusion_nettoyage import fusionner_csvs, nettoyer_donnees
+from merge_cleaning import fusionner_csvs, nettoyer_donnees
 from export_sql import exporter_sql
+from translation import creer_base_anglaise
 
 
 def main():
@@ -26,6 +27,9 @@ def main():
 
     print("\n Étape 6 : Export vers SQLite")
     exporter_sql(df, "marche_emploi_mecanique.db")
+
+    print("\n Étape 7 : Création de la base anglaise")
+    creer_base_anglaise()
 
     print(f"\nTerminé. {len(df)} offres au total dans la base finale.")
 
